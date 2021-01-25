@@ -1,1801 +1,765 @@
-Time	Pack	rep	diasbef	diasaf
-0mes	p0	rep1	40	41
-0mes	p0	rep1	40	41
-0mes	p0	rep1	40	41
-0mes	p0	rep1	47	48
-0mes	p0	rep1	47	48
-0mes	p0	rep1	47	48
-0mes	p0	rep1	47	48
-0mes	p0	rep1	47	48
-0mes	p0	rep1	50	53
-0mes	p0	rep1	50	53
-0mes	p0	rep1	50	53
-0mes	p0	rep1	54	55
-0mes	p0	rep1	60	61
-0mes	p0	rep1	67	68
-0mes	p0	rep1	67	68
-0mes	p0	rep1	84	85
-0mes	p0	rep1	119	NA
-0mes	p0	rep1	119	NA
-0mes	p0	rep1	119	NA
-0mes	p0	rep1	119	NA
-0mes	p0	rep1	119	NA
-0mes	p0	rep1	119	NA
-0mes	p0	rep1	119	NA
-0mes	p0	rep1	119	NA
-0mes	p0	rep1	119	NA
-0mes	p0	rep2	35	36
-0mes	p0	rep2	40	41
-0mes	p0	rep2	41	42
-0mes	p0	rep2	43	46
-0mes	p0	rep2	43	46
-0mes	p0	rep2	47	48
-0mes	p0	rep2	47	48
-0mes	p0	rep2	50	53
-0mes	p0	rep2	50	53
-0mes	p0	rep2	50	53
-0mes	p0	rep2	54	55
-0mes	p0	rep2	56	57
-0mes	p0	rep2	57	60
-0mes	p0	rep2	69	70
-0mes	p0	rep2	119	NA
-0mes	p0	rep2	119	NA
-0mes	p0	rep2	119	NA
-0mes	p0	rep2	119	NA
-0mes	p0	rep2	119	NA
-0mes	p0	rep2	119	NA
-0mes	p0	rep2	119	NA
-0mes	p0	rep2	119	NA
-0mes	p0	rep2	119	NA
-0mes	p0	rep2	119	NA
-0mes	p0	rep2	119	NA
-0mes	p0	rep3	35	36
-0mes	p0	rep3	35	36
-0mes	p0	rep3	39	40
-0mes	p0	rep3	40	41
-0mes	p0	rep3	41	42
-0mes	p0	rep3	41	42
-0mes	p0	rep3	43	46
-0mes	p0	rep3	43	46
-0mes	p0	rep3	47	48
-0mes	p0	rep3	50	53
-0mes	p0	rep3	50	53
-0mes	p0	rep3	54	55
-0mes	p0	rep3	55	56
-0mes	p0	rep3	57	60
-0mes	p0	rep3	63	64
-0mes	p0	rep3	119	NA
-0mes	p0	rep3	119	NA
-0mes	p0	rep3	119	NA
-0mes	p0	rep3	119	NA
-0mes	p0	rep3	119	NA
-0mes	p0	rep3	119	NA
-0mes	p0	rep3	119	NA
-0mes	p0	rep3	119	NA
-0mes	p0	rep3	119	NA
-0mes	p0	rep3	119	NA
-0mes	p0	rep4	35	36
-0mes	p0	rep4	35	36
-0mes	p0	rep4	35	36
-0mes	p0	rep4	36	39
-0mes	p0	rep4	39	40
-0mes	p0	rep4	39	40
-0mes	p0	rep4	41	42
-0mes	p0	rep4	42	43
-0mes	p0	rep4	42	43
-0mes	p0	rep4	43	46
-0mes	p0	rep4	43	46
-0mes	p0	rep4	47	48
-0mes	p0	rep4	47	48
-0mes	p0	rep4	50	53
-0mes	p0	rep4	50	53
-0mes	p0	rep4	54	55
-0mes	p0	rep4	55	56
-0mes	p0	rep4	56	57
-0mes	p0	rep4	62	63
-0mes	p0	rep4	71	74
-0mes	p0	rep4	77	78
-0mes	p0	rep4	119	NA
-0mes	p0	rep4	119	NA
-0mes	p0	rep4	119	NA
-0mes	p0	rep4	119	NA
-0mes	p0	rep5	35	36
-0mes	p0	rep5	36	39
-0mes	p0	rep5	36	39
-0mes	p0	rep5	42	43
-0mes	p0	rep5	42	43
-0mes	p0	rep5	47	48
-0mes	p0	rep5	47	48
-0mes	p0	rep5	47	48
-0mes	p0	rep5	47	48
-0mes	p0	rep5	47	48
-0mes	p0	rep5	50	53
-0mes	p0	rep5	53	54
-0mes	p0	rep5	55	56
-0mes	p0	rep5	56	57
-0mes	p0	rep5	56	57
-0mes	p0	rep5	57	60
-0mes	p0	rep5	62	63
-0mes	p0	rep5	64	67
-0mes	p0	rep5	71	74
-0mes	p0	rep5	71	74
-0mes	p0	rep5	119	NA
-0mes	p0	rep5	119	NA
-0mes	p0	rep5	119	NA
-0mes	p0	rep5	119	NA
-0mes	p0	rep5	119	NA
-0mes	p0	rep6	NA	34
-0mes	p0	rep6	35	36
-0mes	p0	rep6	41	42
-0mes	p0	rep6	41	42
-0mes	p0	rep6	41	42
-0mes	p0	rep6	43	46
-0mes	p0	rep6	43	46
-0mes	p0	rep6	47	48
-0mes	p0	rep6	47	48
-0mes	p0	rep6	50	53
-0mes	p0	rep6	50	53
-0mes	p0	rep6	50	53
-0mes	p0	rep6	54	55
-0mes	p0	rep6	55	56
-0mes	p0	rep6	57	60
-0mes	p0	rep6	61	62
-0mes	p0	rep6	119	NA
-0mes	p0	rep6	119	NA
-0mes	p0	rep6	119	NA
-0mes	p0	rep6	119	NA
-0mes	p0	rep6	119	NA
-0mes	p0	rep6	119	NA
-0mes	p0	rep6	119	NA
-0mes	p0	rep6	119	NA
-0mes	p0	rep6	119	NA
-0mes	p0	rep7	35	36
-0mes	p0	rep7	39	40
-0mes	p0	rep7	39	40
-0mes	p0	rep7	40	41
-0mes	p0	rep7	40	41
-0mes	p0	rep7	41	42
-0mes	p0	rep7	41	42
-0mes	p0	rep7	43	46
-0mes	p0	rep7	43	46
-0mes	p0	rep7	47	48
-0mes	p0	rep7	47	48
-0mes	p0	rep7	47	48
-0mes	p0	rep7	50	53
-0mes	p0	rep7	50	53
-0mes	p0	rep7	54	55
-0mes	p0	rep7	55	56
-0mes	p0	rep7	55	56
-0mes	p0	rep7	61	62
-0mes	p0	rep7	61	62
-0mes	p0	rep7	119	NA
-0mes	p0	rep7	119	NA
-0mes	p0	rep7	119	NA
-0mes	p0	rep7	119	NA
-0mes	p0	rep7	119	NA
-0mes	p0	rep7	119	NA
-0mes	p0	rep8	35	36
-0mes	p0	rep8	41	42
-0mes	p0	rep8	42	43
-0mes	p0	rep8	47	48
-0mes	p0	rep8	50	53
-0mes	p0	rep8	50	53
-0mes	p0	rep8	57	60
-0mes	p0	rep8	64	67
-0mes	p0	rep8	68	69
-0mes	p0	rep8	71	74
-0mes	p0	rep8	119	NA
-0mes	p0	rep8	119	NA
-0mes	p0	rep8	119	NA
-0mes	p0	rep8	119	NA
-0mes	p0	rep8	119	NA
-0mes	p0	rep8	119	NA
-0mes	p0	rep8	119	NA
-0mes	p0	rep8	119	NA
-0mes	p0	rep8	119	NA
-0mes	p0	rep8	119	NA
-0mes	p0	rep8	119	NA
-0mes	p0	rep8	119	NA
-0mes	p0	rep8	119	NA
-0mes	p0	rep8	119	NA
-0mes	p0	rep8	119	NA
-1mes	p0,10	rep1	31	32
-1mes	p0,10	rep1	31	32
-1mes	p0,10	rep1	32	33
-1mes	p0,10	rep1	32	33
-1mes	p0,10	rep1	32	33
-1mes	p0,10	rep1	35	38
-1mes	p0,10	rep1	35	38
-1mes	p0,10	rep1	35	38
-1mes	p0,10	rep1	35	38
-1mes	p0,10	rep1	38	39
-1mes	p0,10	rep1	39	40
-1mes	p0,10	rep1	42	45
-1mes	p0,10	rep1	42	45
-1mes	p0,10	rep1	42	45
-1mes	p0,10	rep1	47	48
-1mes	p0,10	rep1	49	52
-1mes	p0,10	rep1	119	NA
-1mes	p0,10	rep1	119	NA
-1mes	p0,10	rep1	119	NA
-1mes	p0,10	rep1	119	NA
-1mes	p0,10	rep1	119	NA
-1mes	p0,10	rep1	119	NA
-1mes	p0,10	rep1	119	NA
-1mes	p0,10	rep1	119	NA
-1mes	p0,10	rep1	119	NA
-1mes	p0,10	rep2	NA	24
-1mes	p0,10	rep2	28	31
-1mes	p0,10	rep2	28	31
-1mes	p0,10	rep2	31	32
-1mes	p0,10	rep2	32	33
-1mes	p0,10	rep2	33	34
-1mes	p0,10	rep2	38	39
-1mes	p0,10	rep2	39	40
-1mes	p0,10	rep2	39	40
-1mes	p0,10	rep2	42	45
-1mes	p0,10	rep2	42	45
-1mes	p0,10	rep2	47	48
-1mes	p0,10	rep2	47	48
-1mes	p0,10	rep2	52	53
-1mes	p0,10	rep2	54	55
-1mes	p0,10	rep2	119	NA
-1mes	p0,10	rep2	119	NA
-1mes	p0,10	rep2	119	NA
-1mes	p0,10	rep2	119	NA
-1mes	p0,10	rep2	119	NA
-1mes	p0,10	rep2	119	NA
-1mes	p0,10	rep2	119	NA
-1mes	p0,10	rep2	119	NA
-1mes	p0,10	rep2	119	NA
-1mes	p0,10	rep2	119	NA
-1mes	p0,10	rep3	28	31
-1mes	p0,10	rep3	31	32
-1mes	p0,10	rep3	32	33
-1mes	p0,10	rep3	33	34
-1mes	p0,10	rep3	35	38
-1mes	p0,10	rep3	42	45
-1mes	p0,10	rep3	42	45
-1mes	p0,10	rep3	45	46
-1mes	p0,10	rep3	49	52
-1mes	p0,10	rep3	49	52
-1mes	p0,10	rep3	49	52
-1mes	p0,10	rep3	54	55
-1mes	p0,10	rep3	54	55
-1mes	p0,10	rep3	55	56
-1mes	p0,10	rep3	119	NA
-1mes	p0,10	rep3	119	NA
-1mes	p0,10	rep3	119	NA
-1mes	p0,10	rep3	119	NA
-1mes	p0,10	rep3	119	NA
-1mes	p0,10	rep3	119	NA
-1mes	p0,10	rep3	119	NA
-1mes	p0,10	rep3	119	NA
-1mes	p0,10	rep3	119	NA
-1mes	p0,10	rep3	119	NA
-1mes	p0,10	rep3	119	NA
-1mes	p0,10	rep4	28	31
-1mes	p0,10	rep4	32	33
-1mes	p0,10	rep4	32	33
-1mes	p0,10	rep4	33	34
-1mes	p0,10	rep4	35	38
-1mes	p0,10	rep4	38	39
-1mes	p0,10	rep4	38	39
-1mes	p0,10	rep4	40	41
-1mes	p0,10	rep4	41	42
-1mes	p0,10	rep4	42	45
-1mes	p0,10	rep4	42	45
-1mes	p0,10	rep4	45	46
-1mes	p0,10	rep4	119	NA
-1mes	p0,10	rep4	119	NA
-1mes	p0,10	rep4	119	NA
-1mes	p0,10	rep4	119	NA
-1mes	p0,10	rep4	119	NA
-1mes	p0,10	rep4	119	NA
-1mes	p0,10	rep4	119	NA
-1mes	p0,10	rep4	119	NA
-1mes	p0,10	rep4	119	NA
-1mes	p0,10	rep4	119	NA
-1mes	p0,10	rep4	119	NA
-1mes	p0,10	rep4	119	NA
-1mes	p0,10	rep4	119	NA
-1mes	p0,10	rep5	26	27
-1mes	p0,10	rep5	31	32
-1mes	p0,10	rep5	32	33
-1mes	p0,10	rep5	32	33
-1mes	p0,10	rep5	34	35
-1mes	p0,10	rep5	41	42
-1mes	p0,10	rep5	42	45
-1mes	p0,10	rep5	42	45
-1mes	p0,10	rep5	49	52
-1mes	p0,10	rep5	49	52
-1mes	p0,10	rep5	54	55
-1mes	p0,10	rep5	67	68
-1mes	p0,10	rep5	119	NA
-1mes	p0,10	rep5	119	NA
-1mes	p0,10	rep5	119	NA
-1mes	p0,10	rep5	119	NA
-1mes	p0,10	rep5	119	NA
-1mes	p0,10	rep5	119	NA
-1mes	p0,10	rep5	119	NA
-1mes	p0,10	rep5	119	NA
-1mes	p0,10	rep5	119	NA
-1mes	p0,10	rep5	119	NA
-1mes	p0,10	rep5	119	NA
-1mes	p0,10	rep5	119	NA
-1mes	p0,10	rep5	119	NA
-1mes	p0,10	rep6	28	31
-1mes	p0,10	rep6	31	32
-1mes	p0,10	rep6	35	38
-1mes	p0,10	rep6	35	38
-1mes	p0,10	rep6	40	41
-1mes	p0,10	rep6	42	45
-1mes	p0,10	rep6	45	46
-1mes	p0,10	rep6	48	49
-1mes	p0,10	rep6	54	55
-1mes	p0,10	rep6	54	55
-1mes	p0,10	rep6	56	59
-1mes	p0,10	rep6	119	NA
-1mes	p0,10	rep6	119	NA
-1mes	p0,10	rep6	119	NA
-1mes	p0,10	rep6	119	NA
-1mes	p0,10	rep6	119	NA
-1mes	p0,10	rep6	119	NA
-1mes	p0,10	rep6	119	NA
-1mes	p0,10	rep6	119	NA
-1mes	p0,10	rep6	119	NA
-1mes	p0,10	rep6	119	NA
-1mes	p0,10	rep6	119	NA
-1mes	p0,10	rep6	119	NA
-1mes	p0,10	rep6	119	NA
-1mes	p0,10	rep6	119	NA
-1mes	p0,10	rep7	26	27
-1mes	p0,10	rep7	31	32
-1mes	p0,10	rep7	34	35
-1mes	p0,10	rep7	35	38
-1mes	p0,10	rep7	38	39
-1mes	p0,10	rep7	38	39
-1mes	p0,10	rep7	38	39
-1mes	p0,10	rep7	41	42
-1mes	p0,10	rep7	41	42
-1mes	p0,10	rep7	42	45
-1mes	p0,10	rep7	45	46
-1mes	p0,10	rep7	49	52
-1mes	p0,10	rep7	52	53
-1mes	p0,10	rep7	52	53
-1mes	p0,10	rep7	55	56
-1mes	p0,10	rep7	63	66
-1mes	p0,10	rep7	80	81
-1mes	p0,10	rep7	119	NA
-1mes	p0,10	rep7	119	NA
-1mes	p0,10	rep7	119	NA
-1mes	p0,10	rep7	119	NA
-1mes	p0,10	rep7	119	NA
-1mes	p0,10	rep7	119	NA
-1mes	p0,10	rep7	119	NA
-1mes	p0,10	rep7	119	NA
-1mes	p0,10	rep8	31	32
-1mes	p0,10	rep8	32	33
-1mes	p0,10	rep8	32	33
-1mes	p0,10	rep8	35	38
-1mes	p0,10	rep8	35	38
-1mes	p0,10	rep8	35	38
-1mes	p0,10	rep8	38	39
-1mes	p0,10	rep8	40	41
-1mes	p0,10	rep8	40	41
-1mes	p0,10	rep8	41	42
-1mes	p0,10	rep8	42	45
-1mes	p0,10	rep8	42	45
-1mes	p0,10	rep8	45	46
-1mes	p0,10	rep8	49	52
-1mes	p0,10	rep8	52	53
-1mes	p0,10	rep8	54	55
-1mes	p0,10	rep8	59	60
-1mes	p0,10	rep8	60	61
-1mes	p0,10	rep8	119	NA
-1mes	p0,10	rep8	119	NA
-1mes	p0,10	rep8	119	NA
-1mes	p0,10	rep8	119	NA
-1mes	p0,10	rep8	119	NA
-1mes	p0,10	rep8	119	NA
-1mes	p0,10	rep8	119	NA
-1mes	p0,20	rep1	27	28
-1mes	p0,20	rep1	28	31
-1mes	p0,20	rep1	32	33
-1mes	p0,20	rep1	35	38
-1mes	p0,20	rep1	35	38
-1mes	p0,20	rep1	38	39
-1mes	p0,20	rep1	38	39
-1mes	p0,20	rep1	39	40
-1mes	p0,20	rep1	41	42
-1mes	p0,20	rep1	42	45
-1mes	p0,20	rep1	42	45
-1mes	p0,20	rep1	45	46
-1mes	p0,20	rep1	45	46
-1mes	p0,20	rep1	45	46
-1mes	p0,20	rep1	52	53
-1mes	p0,20	rep1	60	61
-1mes	p0,20	rep1	61	62
-1mes	p0,20	rep1	61	62
-1mes	p0,20	rep1	119	NA
-1mes	p0,20	rep1	119	NA
-1mes	p0,20	rep1	119	NA
-1mes	p0,20	rep1	119	NA
-1mes	p0,20	rep1	119	NA
-1mes	p0,20	rep1	119	NA
-1mes	p0,20	rep1	119	NA
-1mes	p0,20	rep2	28	31
-1mes	p0,20	rep2	33	34
-1mes	p0,20	rep2	33	34
-1mes	p0,20	rep2	33	34
-1mes	p0,20	rep2	35	38
-1mes	p0,20	rep2	35	38
-1mes	p0,20	rep2	35	38
-1mes	p0,20	rep2	39	40
-1mes	p0,20	rep2	39	40
-1mes	p0,20	rep2	45	46
-1mes	p0,20	rep2	48	49
-1mes	p0,20	rep2	49	52
-1mes	p0,20	rep2	49	52
-1mes	p0,20	rep2	52	53
-1mes	p0,20	rep2	52	53
-1mes	p0,20	rep2	55	56
-1mes	p0,20	rep2	56	59
-1mes	p0,20	rep2	59	60
-1mes	p0,20	rep2	119	NA
-1mes	p0,20	rep2	119	NA
-1mes	p0,20	rep2	119	NA
-1mes	p0,20	rep2	119	NA
-1mes	p0,20	rep2	119	NA
-1mes	p0,20	rep2	119	NA
-1mes	p0,20	rep2	119	NA
-1mes	p0,20	rep3	27	28
-1mes	p0,20	rep3	28	31
-1mes	p0,20	rep3	28	31
-1mes	p0,20	rep3	28	31
-1mes	p0,20	rep3	28	31
-1mes	p0,20	rep3	31	32
-1mes	p0,20	rep3	31	32
-1mes	p0,20	rep3	32	33
-1mes	p0,20	rep3	32	33
-1mes	p0,20	rep3	35	38
-1mes	p0,20	rep3	35	38
-1mes	p0,20	rep3	38	39
-1mes	p0,20	rep3	40	41
-1mes	p0,20	rep3	40	41
-1mes	p0,20	rep3	42	45
-1mes	p0,20	rep3	45	46
-1mes	p0,20	rep3	45	46
-1mes	p0,20	rep3	49	52
-1mes	p0,20	rep3	61	62
-1mes	p0,20	rep3	119	NA
-1mes	p0,20	rep3	119	NA
-1mes	p0,20	rep3	119	NA
-1mes	p0,20	rep3	119	NA
-1mes	p0,20	rep3	119	NA
-1mes	p0,20	rep3	119	NA
-1mes	p0,20	rep4	NA	24
-1mes	p0,20	rep4	26	27
-1mes	p0,20	rep4	35	38
-1mes	p0,20	rep4	35	38
-1mes	p0,20	rep4	35	38
-1mes	p0,20	rep4	35	38
-1mes	p0,20	rep4	40	41
-1mes	p0,20	rep4	40	41
-1mes	p0,20	rep4	42	45
-1mes	p0,20	rep4	42	45
-1mes	p0,20	rep4	42	45
-1mes	p0,20	rep4	42	45
-1mes	p0,20	rep4	55	56
-1mes	p0,20	rep4	73	74
-1mes	p0,20	rep4	73	74
-1mes	p0,20	rep4	119	NA
-1mes	p0,20	rep4	119	NA
-1mes	p0,20	rep4	119	NA
-1mes	p0,20	rep4	119	NA
-1mes	p0,20	rep4	119	NA
-1mes	p0,20	rep4	119	NA
-1mes	p0,20	rep4	119	NA
-1mes	p0,20	rep4	119	NA
-1mes	p0,20	rep4	119	NA
-1mes	p0,20	rep4	119	NA
-1mes	p0,20	rep5	28	31
-1mes	p0,20	rep5	31	32
-1mes	p0,20	rep5	33	34
-1mes	p0,20	rep5	33	34
-1mes	p0,20	rep5	35	38
-1mes	p0,20	rep5	35	38
-1mes	p0,20	rep5	38	39
-1mes	p0,20	rep5	38	39
-1mes	p0,20	rep5	38	39
-1mes	p0,20	rep5	41	42
-1mes	p0,20	rep5	42	45
-1mes	p0,20	rep5	42	45
-1mes	p0,20	rep5	42	45
-1mes	p0,20	rep5	48	49
-1mes	p0,20	rep5	49	52
-1mes	p0,20	rep5	49	52
-1mes	p0,20	rep5	52	53
-1mes	p0,20	rep5	52	53
-1mes	p0,20	rep5	56	59
-1mes	p0,20	rep5	74	75
-1mes	p0,20	rep5	119	NA
-1mes	p0,20	rep5	119	NA
-1mes	p0,20	rep5	119	NA
-1mes	p0,20	rep5	119	NA
-1mes	p0,20	rep5	119	NA
-1mes	p0,20	rep6	26	27
-1mes	p0,20	rep6	31	32
-1mes	p0,20	rep6	31	32
-1mes	p0,20	rep6	31	32
-1mes	p0,20	rep6	33	34
-1mes	p0,20	rep6	34	35
-1mes	p0,20	rep6	35	38
-1mes	p0,20	rep6	35	38
-1mes	p0,20	rep6	35	38
-1mes	p0,20	rep6	35	38
-1mes	p0,20	rep6	38	39
-1mes	p0,20	rep6	40	41
-1mes	p0,20	rep6	42	45
-1mes	p0,20	rep6	45	46
-1mes	p0,20	rep6	49	52
-1mes	p0,20	rep6	56	59
-1mes	p0,20	rep6	77	80
-1mes	p0,20	rep6	119	NA
-1mes	p0,20	rep6	119	NA
-1mes	p0,20	rep6	119	NA
-1mes	p0,20	rep6	119	NA
-1mes	p0,20	rep6	119	NA
-1mes	p0,20	rep6	119	NA
-1mes	p0,20	rep6	119	NA
-1mes	p0,20	rep6	119	NA
-1mes	p0,20	rep7	26	27
-1mes	p0,20	rep7	27	28
-1mes	p0,20	rep7	31	32
-1mes	p0,20	rep7	31	32
-1mes	p0,20	rep7	31	32
-1mes	p0,20	rep7	31	32
-1mes	p0,20	rep7	34	35
-1mes	p0,20	rep7	35	38
-1mes	p0,20	rep7	38	39
-1mes	p0,20	rep7	40	41
-1mes	p0,20	rep7	40	41
-1mes	p0,20	rep7	42	45
-1mes	p0,20	rep7	42	45
-1mes	p0,20	rep7	42	45
-1mes	p0,20	rep7	49	52
-1mes	p0,20	rep7	49	52
-1mes	p0,20	rep7	54	55
-1mes	p0,20	rep7	54	55
-1mes	p0,20	rep7	54	55
-1mes	p0,20	rep7	60	61
-1mes	p0,20	rep7	119	NA
-1mes	p0,20	rep7	119	NA
-1mes	p0,20	rep7	119	NA
-1mes	p0,20	rep7	119	NA
-1mes	p0,20	rep7	119	NA
-1mes	p0,20	rep8	31	32
-1mes	p0,20	rep8	31	32
-1mes	p0,20	rep8	31	32
-1mes	p0,20	rep8	32	33
-1mes	p0,20	rep8	33	34
-1mes	p0,20	rep8	35	38
-1mes	p0,20	rep8	38	39
-1mes	p0,20	rep8	38	39
-1mes	p0,20	rep8	40	41
-1mes	p0,20	rep8	41	42
-1mes	p0,20	rep8	41	42
-1mes	p0,20	rep8	47	48
-1mes	p0,20	rep8	49	52
-1mes	p0,20	rep8	59	60
-1mes	p0,20	rep8	63	66
-1mes	p0,20	rep8	119	NA
-1mes	p0,20	rep8	119	NA
-1mes	p0,20	rep8	119	NA
-1mes	p0,20	rep8	119	NA
-1mes	p0,20	rep8	119	NA
-1mes	p0,20	rep8	119	NA
-1mes	p0,20	rep8	119	NA
-1mes	p0,20	rep8	119	NA
-1mes	p0,20	rep8	119	NA
-1mes	p0,20	rep8	119	NA
-2mes	p0,10	rep1	35	38
-2mes	p0,10	rep1	35	38
-2mes	p0,10	rep1	35	38
-2mes	p0,10	rep1	39	40
-2mes	p0,10	rep1	41	42
-2mes	p0,10	rep1	45	46
-2mes	p0,10	rep1	48	49
-2mes	p0,10	rep1	56	59
-2mes	p0,10	rep1	56	59
-2mes	p0,10	rep1	63	66
-2mes	p0,10	rep1	70	73
-2mes	p0,10	rep1	75	76
-2mes	p0,10	rep1	119	NA
-2mes	p0,10	rep1	119	NA
-2mes	p0,10	rep1	119	NA
-2mes	p0,10	rep1	119	NA
-2mes	p0,10	rep1	119	NA
-2mes	p0,10	rep1	119	NA
-2mes	p0,10	rep1	119	NA
-2mes	p0,10	rep1	119	NA
-2mes	p0,10	rep1	119	NA
-2mes	p0,10	rep1	119	NA
-2mes	p0,10	rep1	119	NA
-2mes	p0,10	rep1	119	NA
-2mes	p0,10	rep1	119	NA
-2mes	p0,10	rep2	28	31
-2mes	p0,10	rep2	33	34
-2mes	p0,10	rep2	34	35
-2mes	p0,10	rep2	35	38
-2mes	p0,10	rep2	40	41
-2mes	p0,10	rep2	42	45
-2mes	p0,10	rep2	42	45
-2mes	p0,10	rep2	54	55
-2mes	p0,10	rep2	55	56
-2mes	p0,10	rep2	56	59
-2mes	p0,10	rep2	59	60
-2mes	p0,10	rep2	70	73
-2mes	p0,10	rep2	74	75
-2mes	p0,10	rep2	77	80
-2mes	p0,10	rep2	84	87
-2mes	p0,10	rep2	119	NA
-2mes	p0,10	rep2	119	NA
-2mes	p0,10	rep2	119	NA
-2mes	p0,10	rep2	119	NA
-2mes	p0,10	rep2	119	NA
-2mes	p0,10	rep2	119	NA
-2mes	p0,10	rep2	119	NA
-2mes	p0,10	rep2	119	NA
-2mes	p0,10	rep2	119	NA
-2mes	p0,10	rep2	119	NA
-2mes	p0,10	rep3	27	28
-2mes	p0,10	rep3	35	38
-2mes	p0,10	rep3	35	38
-2mes	p0,10	rep3	38	39
-2mes	p0,10	rep3	40	41
-2mes	p0,10	rep3	42	45
-2mes	p0,10	rep3	45	46
-2mes	p0,10	rep3	46	47
-2mes	p0,10	rep3	46	47
-2mes	p0,10	rep3	47	48
-2mes	p0,10	rep3	47	48
-2mes	p0,10	rep3	48	49
-2mes	p0,10	rep3	54	55
-2mes	p0,10	rep3	55	56
-2mes	p0,10	rep3	56	59
-2mes	p0,10	rep3	63	66
-2mes	p0,10	rep3	70	73
-2mes	p0,10	rep3	119	NA
-2mes	p0,10	rep3	119	NA
-2mes	p0,10	rep3	119	NA
-2mes	p0,10	rep3	119	NA
-2mes	p0,10	rep3	119	NA
-2mes	p0,10	rep3	119	NA
-2mes	p0,10	rep3	119	NA
-2mes	p0,10	rep3	119	NA
-2mes	p0,10	rep4	35	38
-2mes	p0,10	rep4	38	39
-2mes	p0,10	rep4	38	39
-2mes	p0,10	rep4	39	40
-2mes	p0,10	rep4	39	40
-2mes	p0,10	rep4	40	41
-2mes	p0,10	rep4	41	42
-2mes	p0,10	rep4	42	45
-2mes	p0,10	rep4	42	45
-2mes	p0,10	rep4	45	46
-2mes	p0,10	rep4	45	46
-2mes	p0,10	rep4	46	47
-2mes	p0,10	rep4	46	47
-2mes	p0,10	rep4	49	52
-2mes	p0,10	rep4	52	53
-2mes	p0,10	rep4	54	55
-2mes	p0,10	rep4	66	67
-2mes	p0,10	rep4	70	73
-2mes	p0,10	rep4	77	80
-2mes	p0,10	rep4	119	NA
-2mes	p0,10	rep4	119	NA
-2mes	p0,10	rep4	119	NA
-2mes	p0,10	rep4	119	NA
-2mes	p0,10	rep4	119	NA
-2mes	p0,10	rep4	119	NA
-2mes	p0,10	rep5	35	38
-2mes	p0,10	rep5	35	38
-2mes	p0,10	rep5	40	41
-2mes	p0,10	rep5	42	45
-2mes	p0,10	rep5	45	46
-2mes	p0,10	rep5	47	48
-2mes	p0,10	rep5	48	49
-2mes	p0,10	rep5	49	52
-2mes	p0,10	rep5	49	52
-2mes	p0,10	rep5	56	59
-2mes	p0,10	rep5	62	63
-2mes	p0,10	rep5	63	66
-2mes	p0,10	rep5	66	67
-2mes	p0,10	rep5	119	NA
-2mes	p0,10	rep5	119	NA
-2mes	p0,10	rep5	119	NA
-2mes	p0,10	rep5	119	NA
-2mes	p0,10	rep5	119	NA
-2mes	p0,10	rep5	119	NA
-2mes	p0,10	rep5	119	NA
-2mes	p0,10	rep5	119	NA
-2mes	p0,10	rep5	119	NA
-2mes	p0,10	rep5	119	NA
-2mes	p0,10	rep5	119	NA
-2mes	p0,10	rep5	119	NA
-2mes	p0,10	rep6	33	34
-2mes	p0,10	rep6	35	38
-2mes	p0,10	rep6	35	38
-2mes	p0,10	rep6	41	42
-2mes	p0,10	rep6	52	53
-2mes	p0,10	rep6	54	55
-2mes	p0,10	rep6	55	56
-2mes	p0,10	rep6	59	60
-2mes	p0,10	rep6	77	80
-2mes	p0,10	rep6	119	NA
-2mes	p0,10	rep6	119	NA
-2mes	p0,10	rep6	119	NA
-2mes	p0,10	rep6	119	NA
-2mes	p0,10	rep6	119	NA
-2mes	p0,10	rep6	119	NA
-2mes	p0,10	rep6	119	NA
-2mes	p0,10	rep6	119	NA
-2mes	p0,10	rep6	119	NA
-2mes	p0,10	rep6	119	NA
-2mes	p0,10	rep6	119	NA
-2mes	p0,10	rep6	119	NA
-2mes	p0,10	rep6	119	NA
-2mes	p0,10	rep6	119	NA
-2mes	p0,10	rep6	119	NA
-2mes	p0,10	rep6	119	NA
-2mes	p0,10	rep7	NA	27
-2mes	p0,10	rep7	27	28
-2mes	p0,10	rep7	31	32
-2mes	p0,10	rep7	31	32
-2mes	p0,10	rep7	32	33
-2mes	p0,10	rep7	34	35
-2mes	p0,10	rep7	34	35
-2mes	p0,10	rep7	34	35
-2mes	p0,10	rep7	35	38
-2mes	p0,10	rep7	38	39
-2mes	p0,10	rep7	40	41
-2mes	p0,10	rep7	42	45
-2mes	p0,10	rep7	42	45
-2mes	p0,10	rep7	45	46
-2mes	p0,10	rep7	48	49
-2mes	p0,10	rep7	49	52
-2mes	p0,10	rep7	49	52
-2mes	p0,10	rep7	52	53
-2mes	p0,10	rep7	73	74
-2mes	p0,10	rep7	119	NA
-2mes	p0,10	rep7	119	NA
-2mes	p0,10	rep7	119	NA
-2mes	p0,10	rep7	119	NA
-2mes	p0,10	rep7	119	NA
-2mes	p0,10	rep7	119	NA
-2mes	p0,10	rep8	34	35
-2mes	p0,10	rep8	35	38
-2mes	p0,10	rep8	38	39
-2mes	p0,10	rep8	40	41
-2mes	p0,10	rep8	42	45
-2mes	p0,10	rep8	42	45
-2mes	p0,10	rep8	47	48
-2mes	p0,10	rep8	48	49
-2mes	p0,10	rep8	52	53
-2mes	p0,10	rep8	54	55
-2mes	p0,10	rep8	56	59
-2mes	p0,10	rep8	59	60
-2mes	p0,10	rep8	59	60
-2mes	p0,10	rep8	62	63
-2mes	p0,10	rep8	62	63
-2mes	p0,10	rep8	119	NA
-2mes	p0,10	rep8	119	NA
-2mes	p0,10	rep8	119	NA
-2mes	p0,10	rep8	119	NA
-2mes	p0,10	rep8	119	NA
-2mes	p0,10	rep8	119	NA
-2mes	p0,10	rep8	119	NA
-2mes	p0,10	rep8	119	NA
-2mes	p0,10	rep8	119	NA
-2mes	p0,10	rep8	119	NA
-2mes	p0,20	rep1	35	38
-2mes	p0,20	rep1	40	41
-2mes	p0,20	rep1	42	45
-2mes	p0,20	rep1	42	45
-2mes	p0,20	rep1	45	46
-2mes	p0,20	rep1	47	48
-2mes	p0,20	rep1	48	49
-2mes	p0,20	rep1	54	55
-2mes	p0,20	rep1	55	56
-2mes	p0,20	rep1	56	59
-2mes	p0,20	rep1	59	60
-2mes	p0,20	rep1	60	61
-2mes	p0,20	rep1	63	66
-2mes	p0,20	rep1	75	76
-2mes	p0,20	rep1	119	NA
-2mes	p0,20	rep1	119	NA
-2mes	p0,20	rep1	119	NA
-2mes	p0,20	rep1	119	NA
-2mes	p0,20	rep1	119	NA
-2mes	p0,20	rep1	119	NA
-2mes	p0,20	rep1	119	NA
-2mes	p0,20	rep1	119	NA
-2mes	p0,20	rep1	119	NA
-2mes	p0,20	rep1	119	NA
-2mes	p0,20	rep1	119	NA
-2mes	p0,20	rep2	28	31
-2mes	p0,20	rep2	40	41
-2mes	p0,20	rep2	42	45
-2mes	p0,20	rep2	42	45
-2mes	p0,20	rep2	45	46
-2mes	p0,20	rep2	46	47
-2mes	p0,20	rep2	47	48
-2mes	p0,20	rep2	47	48
-2mes	p0,20	rep2	52	53
-2mes	p0,20	rep2	70	73
-2mes	p0,20	rep2	119	NA
-2mes	p0,20	rep2	119	NA
-2mes	p0,20	rep2	119	NA
-2mes	p0,20	rep2	119	NA
-2mes	p0,20	rep2	119	NA
-2mes	p0,20	rep2	119	NA
-2mes	p0,20	rep2	119	NA
-2mes	p0,20	rep2	119	NA
-2mes	p0,20	rep2	119	NA
-2mes	p0,20	rep2	119	NA
-2mes	p0,20	rep2	119	NA
-2mes	p0,20	rep2	119	NA
-2mes	p0,20	rep2	119	NA
-2mes	p0,20	rep2	119	NA
-2mes	p0,20	rep2	119	NA
-2mes	p0,20	rep3	35	38
-2mes	p0,20	rep3	40	41
-2mes	p0,20	rep3	42	45
-2mes	p0,20	rep3	42	45
-2mes	p0,20	rep3	45	46
-2mes	p0,20	rep3	47	48
-2mes	p0,20	rep3	48	49
-2mes	p0,20	rep3	49	52
-2mes	p0,20	rep3	54	55
-2mes	p0,20	rep3	54	55
-2mes	p0,20	rep3	56	59
-2mes	p0,20	rep3	56	59
-2mes	p0,20	rep3	56	59
-2mes	p0,20	rep3	62	63
-2mes	p0,20	rep3	66	67
-2mes	p0,20	rep3	73	74
-2mes	p0,20	rep3	119	NA
-2mes	p0,20	rep3	119	NA
-2mes	p0,20	rep3	119	NA
-2mes	p0,20	rep3	119	NA
-2mes	p0,20	rep3	119	NA
-2mes	p0,20	rep3	119	NA
-2mes	p0,20	rep3	119	NA
-2mes	p0,20	rep3	119	NA
-2mes	p0,20	rep3	119	NA
-2mes	p0,20	rep4	35	38
-2mes	p0,20	rep4	35	38
-2mes	p0,20	rep4	38	39
-2mes	p0,20	rep4	38	39
-2mes	p0,20	rep4	41	42
-2mes	p0,20	rep4	42	45
-2mes	p0,20	rep4	46	47
-2mes	p0,20	rep4	46	47
-2mes	p0,20	rep4	46	47
-2mes	p0,20	rep4	47	48
-2mes	p0,20	rep4	48	49
-2mes	p0,20	rep4	49	52
-2mes	p0,20	rep4	62	63
-2mes	p0,20	rep4	63	66
-2mes	p0,20	rep4	66	67
-2mes	p0,20	rep4	67	68
-2mes	p0,20	rep4	119	NA
-2mes	p0,20	rep4	119	NA
-2mes	p0,20	rep4	119	NA
-2mes	p0,20	rep4	119	NA
-2mes	p0,20	rep4	119	NA
-2mes	p0,20	rep4	119	NA
-2mes	p0,20	rep4	119	NA
-2mes	p0,20	rep4	119	NA
-2mes	p0,20	rep4	119	NA
-2mes	p0,20	rep5	35	38
-2mes	p0,20	rep5	35	38
-2mes	p0,20	rep5	38	39
-2mes	p0,20	rep5	40	41
-2mes	p0,20	rep5	41	42
-2mes	p0,20	rep5	42	45
-2mes	p0,20	rep5	48	49
-2mes	p0,20	rep5	49	52
-2mes	p0,20	rep5	52	53
-2mes	p0,20	rep5	54	55
-2mes	p0,20	rep5	59	60
-2mes	p0,20	rep5	63	66
-2mes	p0,20	rep5	75	76
-2mes	p0,20	rep5	119	NA
-2mes	p0,20	rep5	119	NA
-2mes	p0,20	rep5	119	NA
-2mes	p0,20	rep5	119	NA
-2mes	p0,20	rep5	119	NA
-2mes	p0,20	rep5	119	NA
-2mes	p0,20	rep5	119	NA
-2mes	p0,20	rep5	119	NA
-2mes	p0,20	rep5	119	NA
-2mes	p0,20	rep5	119	NA
-2mes	p0,20	rep5	119	NA
-2mes	p0,20	rep5	119	NA
-2mes	p0,20	rep6	28	31
-2mes	p0,20	rep6	34	35
-2mes	p0,20	rep6	40	41
-2mes	p0,20	rep6	41	42
-2mes	p0,20	rep6	42	45
-2mes	p0,20	rep6	45	46
-2mes	p0,20	rep6	46	47
-2mes	p0,20	rep6	48	49
-2mes	p0,20	rep6	49	52
-2mes	p0,20	rep6	55	56
-2mes	p0,20	rep6	56	59
-2mes	p0,20	rep6	56	59
-2mes	p0,20	rep6	56	59
-2mes	p0,20	rep6	56	59
-2mes	p0,20	rep6	119	NA
-2mes	p0,20	rep6	119	NA
-2mes	p0,20	rep6	119	NA
-2mes	p0,20	rep6	119	NA
-2mes	p0,20	rep6	119	NA
-2mes	p0,20	rep6	119	NA
-2mes	p0,20	rep6	119	NA
-2mes	p0,20	rep6	119	NA
-2mes	p0,20	rep6	119	NA
-2mes	p0,20	rep6	119	NA
-2mes	p0,20	rep6	119	NA
-2mes	p0,20	rep7	32	33
-2mes	p0,20	rep7	35	38
-2mes	p0,20	rep7	35	38
-2mes	p0,20	rep7	38	39
-2mes	p0,20	rep7	39	40
-2mes	p0,20	rep7	40	41
-2mes	p0,20	rep7	40	41
-2mes	p0,20	rep7	45	46
-2mes	p0,20	rep7	47	48
-2mes	p0,20	rep7	54	55
-2mes	p0,20	rep7	59	60
-2mes	p0,20	rep7	59	60
-2mes	p0,20	rep7	66	67
-2mes	p0,20	rep7	68	69
-2mes	p0,20	rep7	68	69
-2mes	p0,20	rep7	119	NA
-2mes	p0,20	rep7	119	NA
-2mes	p0,20	rep7	119	NA
-2mes	p0,20	rep7	119	NA
-2mes	p0,20	rep7	119	NA
-2mes	p0,20	rep7	119	NA
-2mes	p0,20	rep7	119	NA
-2mes	p0,20	rep7	119	NA
-2mes	p0,20	rep7	119	NA
-2mes	p0,20	rep7	119	NA
-2mes	p0,20	rep8	28	31
-2mes	p0,20	rep8	31	32
-2mes	p0,20	rep8	35	38
-2mes	p0,20	rep8	39	40
-2mes	p0,20	rep8	40	41
-2mes	p0,20	rep8	42	45
-2mes	p0,20	rep8	45	46
-2mes	p0,20	rep8	46	47
-2mes	p0,20	rep8	48	49
-2mes	p0,20	rep8	48	49
-2mes	p0,20	rep8	49	52
-2mes	p0,20	rep8	52	53
-2mes	p0,20	rep8	52	53
-2mes	p0,20	rep8	56	59
-2mes	p0,20	rep8	70	73
-2mes	p0,20	rep8	119	NA
-2mes	p0,20	rep8	119	NA
-2mes	p0,20	rep8	119	NA
-2mes	p0,20	rep8	119	NA
-2mes	p0,20	rep8	119	NA
-2mes	p0,20	rep8	119	NA
-2mes	p0,20	rep8	119	NA
-2mes	p0,20	rep8	119	NA
-2mes	p0,20	rep8	119	NA
-2mes	p0,20	rep8	119	NA
-3mes	p0,10	rep1	32	33
-3mes	p0,10	rep1	32	33
-3mes	p0,10	rep1	36	39
-3mes	p0,10	rep1	39	40
-3mes	p0,10	rep1	41	42
-3mes	p0,10	rep1	48	49
-3mes	p0,10	rep1	50	53
-3mes	p0,10	rep1	53	54
-3mes	p0,10	rep1	56	57
-3mes	p0,10	rep1	56	57
-3mes	p0,10	rep1	61	62
-3mes	p0,10	rep1	64	67
-3mes	p0,10	rep1	120	NA
-3mes	p0,10	rep1	120	NA
-3mes	p0,10	rep1	120	NA
-3mes	p0,10	rep1	120	NA
-3mes	p0,10	rep1	120	NA
-3mes	p0,10	rep1	120	NA
-3mes	p0,10	rep1	120	NA
-3mes	p0,10	rep1	120	NA
-3mes	p0,10	rep1	120	NA
-3mes	p0,10	rep1	120	NA
-3mes	p0,10	rep1	120	NA
-3mes	p0,10	rep1	120	NA
-3mes	p0,10	rep1	120	NA
-3mes	p0,10	rep2	36	39
-3mes	p0,10	rep2	36	39
-3mes	p0,10	rep2	39	40
-3mes	p0,10	rep2	39	40
-3mes	p0,10	rep2	41	42
-3mes	p0,10	rep2	46	47
-3mes	p0,10	rep2	47	48
-3mes	p0,10	rep2	50	53
-3mes	p0,10	rep2	53	54
-3mes	p0,10	rep2	55	56
-3mes	p0,10	rep2	56	57
-3mes	p0,10	rep2	56	57
-3mes	p0,10	rep2	57	60
-3mes	p0,10	rep2	71	74
-3mes	p0,10	rep2	120	NA
-3mes	p0,10	rep2	120	NA
-3mes	p0,10	rep2	120	NA
-3mes	p0,10	rep2	120	NA
-3mes	p0,10	rep2	120	NA
-3mes	p0,10	rep2	120	NA
-3mes	p0,10	rep2	120	NA
-3mes	p0,10	rep2	120	NA
-3mes	p0,10	rep2	120	NA
-3mes	p0,10	rep2	120	NA
-3mes	p0,10	rep2	120	NA
-3mes	p0,10	rep3	NA	32
-3mes	p0,10	rep3	NA	32
-3mes	p0,10	rep3	35	36
-3mes	p0,10	rep3	36	39
-3mes	p0,10	rep3	39	40
-3mes	p0,10	rep3	41	42
-3mes	p0,10	rep3	46	47
-3mes	p0,10	rep3	46	47
-3mes	p0,10	rep3	49	50
-3mes	p0,10	rep3	56	57
-3mes	p0,10	rep3	57	60
-3mes	p0,10	rep3	57	60
-3mes	p0,10	rep3	57	60
-3mes	p0,10	rep3	71	74
-3mes	p0,10	rep3	85	88
-3mes	p0,10	rep3	120	NA
-3mes	p0,10	rep3	120	NA
-3mes	p0,10	rep3	120	NA
-3mes	p0,10	rep3	120	NA
-3mes	p0,10	rep3	120	NA
-3mes	p0,10	rep3	120	NA
-3mes	p0,10	rep3	120	NA
-3mes	p0,10	rep3	120	NA
-3mes	p0,10	rep3	120	NA
-3mes	p0,10	rep3	120	NA
-3mes	p0,10	rep4	NA	32
-3mes	p0,10	rep4	32	33
-3mes	p0,10	rep4	36	39
-3mes	p0,10	rep4	36	39
-3mes	p0,10	rep4	39	40
-3mes	p0,10	rep4	39	40
-3mes	p0,10	rep4	40	41
-3mes	p0,10	rep4	41	42
-3mes	p0,10	rep4	47	48
-3mes	p0,10	rep4	48	49
-3mes	p0,10	rep4	49	50
-3mes	p0,10	rep4	50	53
-3mes	p0,10	rep4	64	67
-3mes	p0,10	rep4	64	67
-3mes	p0,10	rep4	64	67
-3mes	p0,10	rep4	69	70
-3mes	p0,10	rep4	120	NA
-3mes	p0,10	rep4	120	NA
-3mes	p0,10	rep4	120	NA
-3mes	p0,10	rep4	120	NA
-3mes	p0,10	rep4	120	NA
-3mes	p0,10	rep4	120	NA
-3mes	p0,10	rep4	120	NA
-3mes	p0,10	rep4	120	NA
-3mes	p0,10	rep4	120	NA
-3mes	p0,10	rep5	46	47
-3mes	p0,10	rep5	47	48
-3mes	p0,10	rep5	47	48
-3mes	p0,10	rep5	48	49
-3mes	p0,10	rep5	48	49
-3mes	p0,10	rep5	50	53
-3mes	p0,10	rep5	50	53
-3mes	p0,10	rep5	55	56
-3mes	p0,10	rep5	57	60
-3mes	p0,10	rep5	64	67
-3mes	p0,10	rep5	120	NA
-3mes	p0,10	rep5	120	NA
-3mes	p0,10	rep5	120	NA
-3mes	p0,10	rep5	120	NA
-3mes	p0,10	rep5	120	NA
-3mes	p0,10	rep5	120	NA
-3mes	p0,10	rep5	120	NA
-3mes	p0,10	rep5	120	NA
-3mes	p0,10	rep5	120	NA
-3mes	p0,10	rep5	120	NA
-3mes	p0,10	rep5	120	NA
-3mes	p0,10	rep5	120	NA
-3mes	p0,10	rep5	120	NA
-3mes	p0,10	rep5	120	NA
-3mes	p0,10	rep5	120	NA
-3mes	p0,10	rep6	33	34
-3mes	p0,10	rep6	35	36
-3mes	p0,10	rep6	36	39
-3mes	p0,10	rep6	39	40
-3mes	p0,10	rep6	39	40
-3mes	p0,10	rep6	47	48
-3mes	p0,10	rep6	50	53
-3mes	p0,10	rep6	55	56
-3mes	p0,10	rep6	57	60
-3mes	p0,10	rep6	60	61
-3mes	p0,10	rep6	61	62
-3mes	p0,10	rep6	62	63
-3mes	p0,10	rep6	64	67
-3mes	p0,10	rep6	69	70
-3mes	p0,10	rep6	85	88
-3mes	p0,10	rep6	85	88
-3mes	p0,10	rep6	120	NA
-3mes	p0,10	rep6	120	NA
-3mes	p0,10	rep6	120	NA
-3mes	p0,10	rep6	120	NA
-3mes	p0,10	rep6	120	NA
-3mes	p0,10	rep6	120	NA
-3mes	p0,10	rep6	120	NA
-3mes	p0,10	rep6	120	NA
-3mes	p0,10	rep6	120	NA
-3mes	p0,10	rep7	36	39
-3mes	p0,10	rep7	50	53
-3mes	p0,10	rep7	53	54
-3mes	p0,10	rep7	54	55
-3mes	p0,10	rep7	57	60
-3mes	p0,10	rep7	57	60
-3mes	p0,10	rep7	61	62
-3mes	p0,10	rep7	120	NA
-3mes	p0,10	rep7	120	NA
-3mes	p0,10	rep7	120	NA
-3mes	p0,10	rep7	120	NA
-3mes	p0,10	rep7	120	NA
-3mes	p0,10	rep7	120	NA
-3mes	p0,10	rep7	120	NA
-3mes	p0,10	rep7	120	NA
-3mes	p0,10	rep7	120	NA
-3mes	p0,10	rep7	120	NA
-3mes	p0,10	rep7	120	NA
-3mes	p0,10	rep7	120	NA
-3mes	p0,10	rep7	120	NA
-3mes	p0,10	rep7	120	NA
-3mes	p0,10	rep7	120	NA
-3mes	p0,10	rep7	120	NA
-3mes	p0,10	rep7	120	NA
-3mes	p0,10	rep7	120	NA
-3mes	p0,10	rep8	36	39
-3mes	p0,10	rep8	36	39
-3mes	p0,10	rep8	40	41
-3mes	p0,10	rep8	41	42
-3mes	p0,10	rep8	46	47
-3mes	p0,10	rep8	57	60
-3mes	p0,10	rep8	60	61
-3mes	p0,10	rep8	60	61
-3mes	p0,10	rep8	120	NA
-3mes	p0,10	rep8	120	NA
-3mes	p0,10	rep8	120	NA
-3mes	p0,10	rep8	120	NA
-3mes	p0,10	rep8	120	NA
-3mes	p0,10	rep8	120	NA
-3mes	p0,10	rep8	120	NA
-3mes	p0,10	rep8	120	NA
-3mes	p0,10	rep8	120	NA
-3mes	p0,10	rep8	120	NA
-3mes	p0,10	rep8	120	NA
-3mes	p0,10	rep8	120	NA
-3mes	p0,10	rep8	120	NA
-3mes	p0,10	rep8	120	NA
-3mes	p0,10	rep8	120	NA
-3mes	p0,10	rep8	120	NA
-3mes	p0,10	rep8	120	NA
-3mes	p0,20	rep1	36	39
-3mes	p0,20	rep1	36	39
-3mes	p0,20	rep1	36	39
-3mes	p0,20	rep1	36	39
-3mes	p0,20	rep1	41	42
-3mes	p0,20	rep1	46	47
-3mes	p0,20	rep1	47	48
-3mes	p0,20	rep1	48	49
-3mes	p0,20	rep1	48	49
-3mes	p0,20	rep1	50	53
-3mes	p0,20	rep1	54	55
-3mes	p0,20	rep1	61	62
-3mes	p0,20	rep1	70	71
-3mes	p0,20	rep1	83	84
-3mes	p0,20	rep1	120	NA
-3mes	p0,20	rep1	120	NA
-3mes	p0,20	rep1	120	NA
-3mes	p0,20	rep1	120	NA
-3mes	p0,20	rep1	120	NA
-3mes	p0,20	rep1	120	NA
-3mes	p0,20	rep1	120	NA
-3mes	p0,20	rep1	120	NA
-3mes	p0,20	rep1	120	NA
-3mes	p0,20	rep1	120	NA
-3mes	p0,20	rep1	120	NA
-3mes	p0,20	rep2	40	41
-3mes	p0,20	rep2	43	46
-3mes	p0,20	rep2	43	46
-3mes	p0,20	rep2	43	46
-3mes	p0,20	rep2	48	49
-3mes	p0,20	rep2	49	50
-3mes	p0,20	rep2	50	53
-3mes	p0,20	rep2	50	53
-3mes	p0,20	rep2	50	53
-3mes	p0,20	rep2	53	54
-3mes	p0,20	rep2	53	54
-3mes	p0,20	rep2	57	60
-3mes	p0,20	rep2	74	75
-3mes	p0,20	rep2	75	76
-3mes	p0,20	rep2	76	77
-3mes	p0,20	rep2	120	NA
-3mes	p0,20	rep2	120	NA
-3mes	p0,20	rep2	120	NA
-3mes	p0,20	rep2	120	NA
-3mes	p0,20	rep2	120	NA
-3mes	p0,20	rep2	120	NA
-3mes	p0,20	rep2	120	NA
-3mes	p0,20	rep2	120	NA
-3mes	p0,20	rep2	120	NA
-3mes	p0,20	rep2	120	NA
-3mes	p0,20	rep3	35	36
-3mes	p0,20	rep3	39	40
-3mes	p0,20	rep3	39	40
-3mes	p0,20	rep3	39	40
-3mes	p0,20	rep3	40	41
-3mes	p0,20	rep3	41	42
-3mes	p0,20	rep3	41	42
-3mes	p0,20	rep3	49	50
-3mes	p0,20	rep3	49	50
-3mes	p0,20	rep3	50	53
-3mes	p0,20	rep3	57	60
-3mes	p0,20	rep3	64	67
-3mes	p0,20	rep3	120	NA
-3mes	p0,20	rep3	120	NA
-3mes	p0,20	rep3	120	NA
-3mes	p0,20	rep3	120	NA
-3mes	p0,20	rep3	120	NA
-3mes	p0,20	rep3	120	NA
-3mes	p0,20	rep3	120	NA
-3mes	p0,20	rep3	120	NA
-3mes	p0,20	rep3	120	NA
-3mes	p0,20	rep3	120	NA
-3mes	p0,20	rep3	120	NA
-3mes	p0,20	rep3	120	NA
-3mes	p0,20	rep3	120	NA
-3mes	p0,20	rep4	36	39
-3mes	p0,20	rep4	36	39
-3mes	p0,20	rep4	36	39
-3mes	p0,20	rep4	39	40
-3mes	p0,20	rep4	39	40
-3mes	p0,20	rep4	39	40
-3mes	p0,20	rep4	41	42
-3mes	p0,20	rep4	43	46
-3mes	p0,20	rep4	43	46
-3mes	p0,20	rep4	43	46
-3mes	p0,20	rep4	47	48
-3mes	p0,20	rep4	49	50
-3mes	p0,20	rep4	54	55
-3mes	p0,20	rep4	55	56
-3mes	p0,20	rep4	57	60
-3mes	p0,20	rep4	61	62
-3mes	p0,20	rep4	64	67
-3mes	p0,20	rep4	69	70
-3mes	p0,20	rep4	70	71
-3mes	p0,20	rep4	120	NA
-3mes	p0,20	rep4	120	NA
-3mes	p0,20	rep4	120	NA
-3mes	p0,20	rep4	120	NA
-3mes	p0,20	rep4	120	NA
-3mes	p0,20	rep4	120	NA
-3mes	p0,20	rep5	35	36
-3mes	p0,20	rep5	39	40
-3mes	p0,20	rep5	41	42
-3mes	p0,20	rep5	43	46
-3mes	p0,20	rep5	43	46
-3mes	p0,20	rep5	43	46
-3mes	p0,20	rep5	47	48
-3mes	p0,20	rep5	48	49
-3mes	p0,20	rep5	49	50
-3mes	p0,20	rep5	50	53
-3mes	p0,20	rep5	53	54
-3mes	p0,20	rep5	53	54
-3mes	p0,20	rep5	54	55
-3mes	p0,20	rep5	54	55
-3mes	p0,20	rep5	55	56
-3mes	p0,20	rep5	57	60
-3mes	p0,20	rep5	64	67
-3mes	p0,20	rep5	120	NA
-3mes	p0,20	rep5	120	NA
-3mes	p0,20	rep5	120	NA
-3mes	p0,20	rep5	120	NA
-3mes	p0,20	rep5	120	NA
-3mes	p0,20	rep5	120	NA
-3mes	p0,20	rep5	120	NA
-3mes	p0,20	rep5	120	NA
-3mes	p0,20	rep6	35	36
-3mes	p0,20	rep6	39	40
-3mes	p0,20	rep6	39	40
-3mes	p0,20	rep6	39	40
-3mes	p0,20	rep6	41	42
-3mes	p0,20	rep6	43	46
-3mes	p0,20	rep6	46	47
-3mes	p0,20	rep6	48	49
-3mes	p0,20	rep6	49	50
-3mes	p0,20	rep6	50	53
-3mes	p0,20	rep6	50	53
-3mes	p0,20	rep6	53	54
-3mes	p0,20	rep6	57	60
-3mes	p0,20	rep6	60	61
-3mes	p0,20	rep6	69	70
-3mes	p0,20	rep6	120	NA
-3mes	p0,20	rep6	120	NA
-3mes	p0,20	rep6	120	NA
-3mes	p0,20	rep6	120	NA
-3mes	p0,20	rep6	120	NA
-3mes	p0,20	rep6	120	NA
-3mes	p0,20	rep6	120	NA
-3mes	p0,20	rep6	120	NA
-3mes	p0,20	rep6	120	NA
-3mes	p0,20	rep6	120	NA
-3mes	p0,20	rep7	NA	32
-3mes	p0,20	rep7	NA	32
-3mes	p0,20	rep7	35	36
-3mes	p0,20	rep7	36	39
-3mes	p0,20	rep7	36	39
-3mes	p0,20	rep7	39	40
-3mes	p0,20	rep7	43	46
-3mes	p0,20	rep7	46	47
-3mes	p0,20	rep7	49	50
-3mes	p0,20	rep7	50	53
-3mes	p0,20	rep7	50	53
-3mes	p0,20	rep7	53	54
-3mes	p0,20	rep7	54	55
-3mes	p0,20	rep7	56	57
-3mes	p0,20	rep7	120	NA
-3mes	p0,20	rep7	120	NA
-3mes	p0,20	rep7	120	NA
-3mes	p0,20	rep7	120	NA
-3mes	p0,20	rep7	120	NA
-3mes	p0,20	rep7	120	NA
-3mes	p0,20	rep7	120	NA
-3mes	p0,20	rep7	120	NA
-3mes	p0,20	rep7	120	NA
-3mes	p0,20	rep7	120	NA
-3mes	p0,20	rep7	120	NA
-3mes	p0,20	rep8	32	33
-3mes	p0,20	rep8	36	39
-3mes	p0,20	rep8	39	40
-3mes	p0,20	rep8	43	46
-3mes	p0,20	rep8	43	46
-3mes	p0,20	rep8	43	46
-3mes	p0,20	rep8	46	47
-3mes	p0,20	rep8	46	47
-3mes	p0,20	rep8	46	47
-3mes	p0,20	rep8	47	48
-3mes	p0,20	rep8	48	49
-3mes	p0,20	rep8	50	53
-3mes	p0,20	rep8	53	54
-3mes	p0,20	rep8	54	55
-3mes	p0,20	rep8	56	57
-3mes	p0,20	rep8	57	60
-3mes	p0,20	rep8	61	62
-3mes	p0,20	rep8	64	67
-3mes	p0,20	rep8	64	67
-3mes	p0,20	rep8	120	NA
-3mes	p0,20	rep8	120	NA
-3mes	p0,20	rep8	120	NA
-3mes	p0,20	rep8	120	NA
-3mes	p0,20	rep8	120	NA
-3mes	p0,20	rep8	120	NA
-4mes	p0,10	rep1	47	50
-4mes	p0,10	rep1	52	53
-4mes	p0,10	rep1	54	57
-4mes	p0,10	rep1	54	57
-4mes	p0,10	rep1	60	61
-4mes	p0,10	rep1	60	61
-4mes	p0,10	rep1	60	61
-4mes	p0,10	rep1	60	61
-4mes	p0,10	rep1	120	NA
-4mes	p0,10	rep1	120	NA
-4mes	p0,10	rep1	120	NA
-4mes	p0,10	rep1	120	NA
-4mes	p0,10	rep1	120	NA
-4mes	p0,10	rep1	120	NA
-4mes	p0,10	rep1	120	NA
-4mes	p0,10	rep1	120	NA
-4mes	p0,10	rep1	120	NA
-4mes	p0,10	rep1	120	NA
-4mes	p0,10	rep1	120	NA
-4mes	p0,10	rep1	120	NA
-4mes	p0,10	rep1	120	NA
-4mes	p0,10	rep1	120	NA
-4mes	p0,10	rep1	120	NA
-4mes	p0,10	rep1	120	NA
-4mes	p0,10	rep1	120	NA
-4mes	p0,10	rep2	33	36
-4mes	p0,10	rep2	38	39
-4mes	p0,10	rep2	52	53
-4mes	p0,10	rep2	52	53
-4mes	p0,10	rep2	60	61
-4mes	p0,10	rep2	66	67
-4mes	p0,10	rep2	78	79
-4mes	p0,10	rep2	120	NA
-4mes	p0,10	rep2	120	NA
-4mes	p0,10	rep2	120	NA
-4mes	p0,10	rep2	120	NA
-4mes	p0,10	rep2	120	NA
-4mes	p0,10	rep2	120	NA
-4mes	p0,10	rep2	120	NA
-4mes	p0,10	rep2	120	NA
-4mes	p0,10	rep2	120	NA
-4mes	p0,10	rep2	120	NA
-4mes	p0,10	rep2	120	NA
-4mes	p0,10	rep2	120	NA
-4mes	p0,10	rep2	120	NA
-4mes	p0,10	rep2	120	NA
-4mes	p0,10	rep2	120	NA
-4mes	p0,10	rep2	120	NA
-4mes	p0,10	rep2	120	NA
-4mes	p0,10	rep2	120	NA
-4mes	p0,10	rep3	39	40
-4mes	p0,10	rep3	40	43
-4mes	p0,10	rep3	47	50
-4mes	p0,10	rep3	52	53
-4mes	p0,10	rep3	54	57
-4mes	p0,10	rep3	54	57
-4mes	p0,10	rep3	54	57
-4mes	p0,10	rep3	54	57
-4mes	p0,10	rep3	60	61
-4mes	p0,10	rep3	60	61
-4mes	p0,10	rep3	60	61
-4mes	p0,10	rep3	72	73
-4mes	p0,10	rep3	81	82
-4mes	p0,10	rep3	120	NA
-4mes	p0,10	rep3	120	NA
-4mes	p0,10	rep3	120	NA
-4mes	p0,10	rep3	120	NA
-4mes	p0,10	rep3	120	NA
-4mes	p0,10	rep3	120	NA
-4mes	p0,10	rep3	120	NA
-4mes	p0,10	rep3	120	NA
-4mes	p0,10	rep3	120	NA
-4mes	p0,10	rep3	120	NA
-4mes	p0,10	rep3	120	NA
-4mes	p0,10	rep3	120	NA
-4mes	p0,10	rep4	38	39
-4mes	p0,10	rep4	38	39
-4mes	p0,10	rep4	44	45
-4mes	p0,10	rep4	47	50
-4mes	p0,10	rep4	47	50
-4mes	p0,10	rep4	52	53
-4mes	p0,10	rep4	54	57
-4mes	p0,10	rep4	54	57
-4mes	p0,10	rep4	54	57
-4mes	p0,10	rep4	54	57
-4mes	p0,10	rep4	60	61
-4mes	p0,10	rep4	60	61
-4mes	p0,10	rep4	66	67
-4mes	p0,10	rep4	68	71
-4mes	p0,10	rep4	81	82
-4mes	p0,10	rep4	120	NA
-4mes	p0,10	rep4	120	NA
-4mes	p0,10	rep4	120	NA
-4mes	p0,10	rep4	120	NA
-4mes	p0,10	rep4	120	NA
-4mes	p0,10	rep4	120	NA
-4mes	p0,10	rep4	120	NA
-4mes	p0,10	rep4	120	NA
-4mes	p0,10	rep4	120	NA
-4mes	p0,10	rep4	120	NA
-4mes	p0,10	rep5	NA	29
-4mes	p0,10	rep5	33	36
-4mes	p0,10	rep5	38	39
-4mes	p0,10	rep5	40	43
-4mes	p0,10	rep5	47	50
-4mes	p0,10	rep5	47	50
-4mes	p0,10	rep5	52	53
-4mes	p0,10	rep5	54	57
-4mes	p0,10	rep5	54	57
-4mes	p0,10	rep5	60	61
-4mes	p0,10	rep5	60	61
-4mes	p0,10	rep5	120	NA
-4mes	p0,10	rep5	120	NA
-4mes	p0,10	rep5	120	NA
-4mes	p0,10	rep5	120	NA
-4mes	p0,10	rep5	120	NA
-4mes	p0,10	rep5	120	NA
-4mes	p0,10	rep5	120	NA
-4mes	p0,10	rep5	120	NA
-4mes	p0,10	rep5	120	NA
-4mes	p0,10	rep5	120	NA
-4mes	p0,10	rep5	120	NA
-4mes	p0,10	rep5	120	NA
-4mes	p0,10	rep5	120	NA
-4mes	p0,10	rep5	120	NA
-4mes	p0,10	rep6	33	36
-4mes	p0,10	rep6	40	43
-4mes	p0,10	rep6	43	44
-4mes	p0,10	rep6	52	53
-4mes	p0,10	rep6	52	53
-4mes	p0,10	rep6	60	61
-4mes	p0,10	rep6	66	67
-4mes	p0,10	rep6	82	85
-4mes	p0,10	rep6	120	NA
-4mes	p0,10	rep6	120	NA
-4mes	p0,10	rep6	120	NA
-4mes	p0,10	rep6	120	NA
-4mes	p0,10	rep6	120	NA
-4mes	p0,10	rep6	120	NA
-4mes	p0,10	rep6	120	NA
-4mes	p0,10	rep6	120	NA
-4mes	p0,10	rep6	120	NA
-4mes	p0,10	rep6	120	NA
-4mes	p0,10	rep6	120	NA
-4mes	p0,10	rep6	120	NA
-4mes	p0,10	rep6	120	NA
-4mes	p0,10	rep6	120	NA
-4mes	p0,10	rep6	120	NA
-4mes	p0,10	rep6	120	NA
-4mes	p0,10	rep6	120	NA
-4mes	p0,10	rep7	40	43
-4mes	p0,10	rep7	40	43
-4mes	p0,10	rep7	47	50
-4mes	p0,10	rep7	54	57
-4mes	p0,10	rep7	54	57
-4mes	p0,10	rep7	54	57
-4mes	p0,10	rep7	60	61
-4mes	p0,10	rep7	61	64
-4mes	p0,10	rep7	66	67
-4mes	p0,10	rep7	68	71
-4mes	p0,10	rep7	68	71
-4mes	p0,10	rep7	120	NA
-4mes	p0,10	rep7	120	NA
-4mes	p0,10	rep7	120	NA
-4mes	p0,10	rep7	120	NA
-4mes	p0,10	rep7	120	NA
-4mes	p0,10	rep7	120	NA
-4mes	p0,10	rep7	120	NA
-4mes	p0,10	rep7	120	NA
-4mes	p0,10	rep7	120	NA
-4mes	p0,10	rep7	120	NA
-4mes	p0,10	rep7	120	NA
-4mes	p0,10	rep7	120	NA
-4mes	p0,10	rep7	120	NA
-4mes	p0,10	rep7	120	NA
-4mes	p0,10	rep8	43	44
-4mes	p0,10	rep8	43	44
-4mes	p0,10	rep8	45	46
-4mes	p0,10	rep8	47	50
-4mes	p0,10	rep8	52	53
-4mes	p0,10	rep8	54	57
-4mes	p0,10	rep8	60	61
-4mes	p0,10	rep8	60	61
-4mes	p0,10	rep8	60	61
-4mes	p0,10	rep8	61	64
-4mes	p0,10	rep8	61	64
-4mes	p0,10	rep8	66	67
-4mes	p0,10	rep8	68	71
-4mes	p0,10	rep8	72	73
-4mes	p0,10	rep8	72	73
-4mes	p0,10	rep8	74	75
-4mes	p0,10	rep8	120	NA
-4mes	p0,10	rep8	120	NA
-4mes	p0,10	rep8	120	NA
-4mes	p0,10	rep8	120	NA
-4mes	p0,10	rep8	120	NA
-4mes	p0,10	rep8	120	NA
-4mes	p0,10	rep8	120	NA
-4mes	p0,10	rep8	120	NA
-4mes	p0,10	rep8	120	NA
-4mes	p0,20	rep1	33	36
-4mes	p0,20	rep1	36	37
-4mes	p0,20	rep1	39	40
-4mes	p0,20	rep1	40	43
-4mes	p0,20	rep1	44	45
-4mes	p0,20	rep1	45	46
-4mes	p0,20	rep1	47	50
-4mes	p0,20	rep1	47	50
-4mes	p0,20	rep1	52	53
-4mes	p0,20	rep1	52	53
-4mes	p0,20	rep1	60	61
-4mes	p0,20	rep1	60	61
-4mes	p0,20	rep1	68	71
-4mes	p0,20	rep1	120	NA
-4mes	p0,20	rep1	120	NA
-4mes	p0,20	rep1	120	NA
-4mes	p0,20	rep1	120	NA
-4mes	p0,20	rep1	120	NA
-4mes	p0,20	rep1	120	NA
-4mes	p0,20	rep1	120	NA
-4mes	p0,20	rep1	120	NA
-4mes	p0,20	rep1	120	NA
-4mes	p0,20	rep1	120	NA
-4mes	p0,20	rep1	120	NA
-4mes	p0,20	rep1	120	NA
-4mes	p0,20	rep2	36	37
-4mes	p0,20	rep2	38	39
-4mes	p0,20	rep2	38	39
-4mes	p0,20	rep2	44	45
-4mes	p0,20	rep2	45	46
-4mes	p0,20	rep2	47	50
-4mes	p0,20	rep2	52	53
-4mes	p0,20	rep2	52	53
-4mes	p0,20	rep2	54	57
-4mes	p0,20	rep2	54	57
-4mes	p0,20	rep2	54	57
-4mes	p0,20	rep2	60	61
-4mes	p0,20	rep2	60	61
-4mes	p0,20	rep2	82	85
-4mes	p0,20	rep2	120	NA
-4mes	p0,20	rep2	120	NA
-4mes	p0,20	rep2	120	NA
-4mes	p0,20	rep2	120	NA
-4mes	p0,20	rep2	120	NA
-4mes	p0,20	rep2	120	NA
-4mes	p0,20	rep2	120	NA
-4mes	p0,20	rep2	120	NA
-4mes	p0,20	rep2	120	NA
-4mes	p0,20	rep2	120	NA
-4mes	p0,20	rep2	120	NA
-4mes	p0,20	rep3	NA	29
-4mes	p0,20	rep3	30	31
-4mes	p0,20	rep3	36	37
-4mes	p0,20	rep3	38	39
-4mes	p0,20	rep3	39	40
-4mes	p0,20	rep3	39	40
-4mes	p0,20	rep3	40	43
-4mes	p0,20	rep3	40	43
-4mes	p0,20	rep3	40	43
-4mes	p0,20	rep3	45	46
-4mes	p0,20	rep3	47	50
-4mes	p0,20	rep3	47	50
-4mes	p0,20	rep3	52	53
-4mes	p0,20	rep3	54	57
-4mes	p0,20	rep3	60	61
-4mes	p0,20	rep3	120	NA
-4mes	p0,20	rep3	120	NA
-4mes	p0,20	rep3	120	NA
-4mes	p0,20	rep3	120	NA
-4mes	p0,20	rep3	120	NA
-4mes	p0,20	rep3	120	NA
-4mes	p0,20	rep3	120	NA
-4mes	p0,20	rep3	120	NA
-4mes	p0,20	rep3	120	NA
-4mes	p0,20	rep3	120	NA
-4mes	p0,20	rep4	33	36
-4mes	p0,20	rep4	33	36
-4mes	p0,20	rep4	33	36
-4mes	p0,20	rep4	39	40
-4mes	p0,20	rep4	40	43
-4mes	p0,20	rep4	43	44
-4mes	p0,20	rep4	45	46
-4mes	p0,20	rep4	47	50
-4mes	p0,20	rep4	54	57
-4mes	p0,20	rep4	54	57
-4mes	p0,20	rep4	66	67
-4mes	p0,20	rep4	120	NA
-4mes	p0,20	rep4	120	NA
-4mes	p0,20	rep4	120	NA
-4mes	p0,20	rep4	120	NA
-4mes	p0,20	rep4	120	NA
-4mes	p0,20	rep4	120	NA
-4mes	p0,20	rep4	120	NA
-4mes	p0,20	rep4	120	NA
-4mes	p0,20	rep4	120	NA
-4mes	p0,20	rep4	120	NA
-4mes	p0,20	rep4	120	NA
-4mes	p0,20	rep4	120	NA
-4mes	p0,20	rep4	120	NA
-4mes	p0,20	rep4	120	NA
-4mes	p0,20	rep5	NA	29
-4mes	p0,20	rep5	33	36
-4mes	p0,20	rep5	36	37
-4mes	p0,20	rep5	38	39
-4mes	p0,20	rep5	38	39
-4mes	p0,20	rep5	40	43
-4mes	p0,20	rep5	45	46
-4mes	p0,20	rep5	45	46
-4mes	p0,20	rep5	47	50
-4mes	p0,20	rep5	47	50
-4mes	p0,20	rep5	47	50
-4mes	p0,20	rep5	54	57
-4mes	p0,20	rep5	54	57
-4mes	p0,20	rep5	68	71
-4mes	p0,20	rep5	68	71
-4mes	p0,20	rep5	120	NA
-4mes	p0,20	rep5	120	NA
-4mes	p0,20	rep5	120	NA
-4mes	p0,20	rep5	120	NA
-4mes	p0,20	rep5	120	NA
-4mes	p0,20	rep5	120	NA
-4mes	p0,20	rep5	120	NA
-4mes	p0,20	rep5	120	NA
-4mes	p0,20	rep5	120	NA
-4mes	p0,20	rep5	120	NA
-4mes	p0,20	rep6	31	32
-4mes	p0,20	rep6	36	37
-4mes	p0,20	rep6	36	37
-4mes	p0,20	rep6	39	40
-4mes	p0,20	rep6	43	44
-4mes	p0,20	rep6	43	44
-4mes	p0,20	rep6	45	46
-4mes	p0,20	rep6	47	50
-4mes	p0,20	rep6	47	50
-4mes	p0,20	rep6	61	64
-4mes	p0,20	rep6	61	64
-4mes	p0,20	rep6	68	71
-4mes	p0,20	rep6	120	NA
-4mes	p0,20	rep6	120	NA
-4mes	p0,20	rep6	120	NA
-4mes	p0,20	rep6	120	NA
-4mes	p0,20	rep6	120	NA
-4mes	p0,20	rep6	120	NA
-4mes	p0,20	rep6	120	NA
-4mes	p0,20	rep6	120	NA
-4mes	p0,20	rep6	120	NA
-4mes	p0,20	rep6	120	NA
-4mes	p0,20	rep6	120	NA
-4mes	p0,20	rep6	120	NA
-4mes	p0,20	rep6	120	NA
-4mes	p0,20	rep7	NA	29
-4mes	p0,20	rep7	30	31
-4mes	p0,20	rep7	33	36
-4mes	p0,20	rep7	36	37
-4mes	p0,20	rep7	40	43
-4mes	p0,20	rep7	43	44
-4mes	p0,20	rep7	43	44
-4mes	p0,20	rep7	44	45
-4mes	p0,20	rep7	47	50
-4mes	p0,20	rep7	47	50
-4mes	p0,20	rep7	52	53
-4mes	p0,20	rep7	54	57
-4mes	p0,20	rep7	54	57
-4mes	p0,20	rep7	54	57
-4mes	p0,20	rep7	61	64
-4mes	p0,20	rep7	66	67
-4mes	p0,20	rep7	120	NA
-4mes	p0,20	rep7	120	NA
-4mes	p0,20	rep7	120	NA
-4mes	p0,20	rep7	120	NA
-4mes	p0,20	rep7	120	NA
-4mes	p0,20	rep7	120	NA
-4mes	p0,20	rep7	120	NA
-4mes	p0,20	rep7	120	NA
-4mes	p0,20	rep7	120	NA
-4mes	p0,20	rep8	NA	29
-4mes	p0,20	rep8	NA	29
-4mes	p0,20	rep8	30	31
-4mes	p0,20	rep8	38	39
-4mes	p0,20	rep8	39	40
-4mes	p0,20	rep8	39	40
-4mes	p0,20	rep8	39	40
-4mes	p0,20	rep8	45	46
-4mes	p0,20	rep8	52	53
-4mes	p0,20	rep8	52	53
-4mes	p0,20	rep8	54	57
-4mes	p0,20	rep8	60	61
-4mes	p0,20	rep8	120	NA
-4mes	p0,20	rep8	120	NA
-4mes	p0,20	rep8	120	NA
-4mes	p0,20	rep8	120	NA
-4mes	p0,20	rep8	120	NA
-4mes	p0,20	rep8	120	NA
-4mes	p0,20	rep8	120	NA
-4mes	p0,20	rep8	120	NA
-4mes	p0,20	rep8	120	NA
-4mes	p0,20	rep8	120	NA
-4mes	p0,20	rep8	120	NA
-4mes	p0,20	rep8	120	NA
-4mes	p0,20	rep8	120	NA
+structure(list(Time = structure(c(1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+1L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+2L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+3L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 
+4L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 5L, 
+5L), .Label = c("0mes", "1mes", "2mes", "3mes", "4mes"), class = "factor"), 
+    Pack = structure(c(1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+    1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+    1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+    1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+    1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+    1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+    1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+    1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+    1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+    1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+    1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+    1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+    1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 
+    1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 
+    3L, 3L, 3L, 3L, 3L), .Label = c("p0", "p0,10", "p0,20"), class = "factor"), 
+    rep = c("rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", "rep1", 
+    "rep1", "rep1", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", "rep2", 
+    "rep2", "rep2", "rep2", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", "rep3", 
+    "rep3", "rep3", "rep3", "rep3", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", "rep4", 
+    "rep4", "rep4", "rep4", "rep4", "rep4", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", 
+    "rep5", "rep5", "rep5", "rep5", "rep5", "rep5", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", 
+    "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep6", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", "rep7", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", "rep8", 
+    "rep8"), diasbef = c(40L, 40L, 40L, 47L, 47L, 47L, 47L, 47L, 
+    50L, 50L, 50L, 54L, 60L, 67L, 67L, 84L, 119L, 119L, 119L, 
+    119L, 119L, 119L, 119L, 119L, 119L, 35L, 40L, 41L, 43L, 43L, 
+    47L, 47L, 50L, 50L, 50L, 54L, 56L, 57L, 69L, 119L, 119L, 
+    119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 35L, 
+    35L, 39L, 40L, 41L, 41L, 43L, 43L, 47L, 50L, 50L, 54L, 55L, 
+    57L, 63L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 
+    119L, 119L, 35L, 35L, 35L, 36L, 39L, 39L, 41L, 42L, 42L, 
+    43L, 43L, 47L, 47L, 50L, 50L, 54L, 55L, 56L, 62L, 71L, 77L, 
+    119L, 119L, 119L, 119L, 35L, 36L, 36L, 42L, 42L, 47L, 47L, 
+    47L, 47L, 47L, 50L, 53L, 55L, 56L, 56L, 57L, 62L, 64L, 71L, 
+    71L, 119L, 119L, 119L, 119L, 119L, NA, 35L, 41L, 41L, 41L, 
+    43L, 43L, 47L, 47L, 50L, 50L, 50L, 54L, 55L, 57L, 61L, 119L, 
+    119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 35L, 39L, 
+    39L, 40L, 40L, 41L, 41L, 43L, 43L, 47L, 47L, 47L, 50L, 50L, 
+    54L, 55L, 55L, 61L, 61L, 119L, 119L, 119L, 119L, 119L, 119L, 
+    35L, 41L, 42L, 47L, 50L, 50L, 57L, 64L, 68L, 71L, 119L, 119L, 
+    119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 
+    119L, 119L, 119L, 31L, 31L, 32L, 32L, 32L, 35L, 35L, 35L, 
+    35L, 38L, 39L, 42L, 42L, 42L, 47L, 49L, 119L, 119L, 119L, 
+    119L, 119L, 119L, 119L, 119L, 119L, NA, 28L, 28L, 31L, 32L, 
+    33L, 38L, 39L, 39L, 42L, 42L, 47L, 47L, 52L, 54L, 119L, 119L, 
+    119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 28L, 31L, 
+    32L, 33L, 35L, 42L, 42L, 45L, 49L, 49L, 49L, 54L, 54L, 55L, 
+    119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 
+    119L, 28L, 32L, 32L, 33L, 35L, 38L, 38L, 40L, 41L, 42L, 42L, 
+    45L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 
+    119L, 119L, 119L, 119L, 26L, 31L, 32L, 32L, 34L, 41L, 42L, 
+    42L, 49L, 49L, 54L, 67L, 119L, 119L, 119L, 119L, 119L, 119L, 
+    119L, 119L, 119L, 119L, 119L, 119L, 119L, 28L, 31L, 35L, 
+    35L, 40L, 42L, 45L, 48L, 54L, 54L, 56L, 119L, 119L, 119L, 
+    119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 
+    119L, 26L, 31L, 34L, 35L, 38L, 38L, 38L, 41L, 41L, 42L, 45L, 
+    49L, 52L, 52L, 55L, 63L, 80L, 119L, 119L, 119L, 119L, 119L, 
+    119L, 119L, 119L, 31L, 32L, 32L, 35L, 35L, 35L, 38L, 40L, 
+    40L, 41L, 42L, 42L, 45L, 49L, 52L, 54L, 59L, 60L, 119L, 119L, 
+    119L, 119L, 119L, 119L, 119L, 27L, 28L, 32L, 35L, 35L, 38L, 
+    38L, 39L, 41L, 42L, 42L, 45L, 45L, 45L, 52L, 60L, 61L, 61L, 
+    119L, 119L, 119L, 119L, 119L, 119L, 119L, 28L, 33L, 33L, 
+    33L, 35L, 35L, 35L, 39L, 39L, 45L, 48L, 49L, 49L, 52L, 52L, 
+    55L, 56L, 59L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 
+    27L, 28L, 28L, 28L, 28L, 31L, 31L, 32L, 32L, 35L, 35L, 38L, 
+    40L, 40L, 42L, 45L, 45L, 49L, 61L, 119L, 119L, 119L, 119L, 
+    119L, 119L, NA, 26L, 35L, 35L, 35L, 35L, 40L, 40L, 42L, 42L, 
+    42L, 42L, 55L, 73L, 73L, 119L, 119L, 119L, 119L, 119L, 119L, 
+    119L, 119L, 119L, 119L, 28L, 31L, 33L, 33L, 35L, 35L, 38L, 
+    38L, 38L, 41L, 42L, 42L, 42L, 48L, 49L, 49L, 52L, 52L, 56L, 
+    74L, 119L, 119L, 119L, 119L, 119L, 26L, 31L, 31L, 31L, 33L, 
+    34L, 35L, 35L, 35L, 35L, 38L, 40L, 42L, 45L, 49L, 56L, 77L, 
+    119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 26L, 27L, 
+    31L, 31L, 31L, 31L, 34L, 35L, 38L, 40L, 40L, 42L, 42L, 42L, 
+    49L, 49L, 54L, 54L, 54L, 60L, 119L, 119L, 119L, 119L, 119L, 
+    31L, 31L, 31L, 32L, 33L, 35L, 38L, 38L, 40L, 41L, 41L, 47L, 
+    49L, 59L, 63L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 
+    119L, 119L, 119L, 35L, 35L, 35L, 39L, 41L, 45L, 48L, 56L, 
+    56L, 63L, 70L, 75L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 
+    119L, 119L, 119L, 119L, 119L, 119L, 28L, 33L, 34L, 35L, 40L, 
+    42L, 42L, 54L, 55L, 56L, 59L, 70L, 74L, 77L, 84L, 119L, 119L, 
+    119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 27L, 35L, 
+    35L, 38L, 40L, 42L, 45L, 46L, 46L, 47L, 47L, 48L, 54L, 55L, 
+    56L, 63L, 70L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 
+    119L, 35L, 38L, 38L, 39L, 39L, 40L, 41L, 42L, 42L, 45L, 45L, 
+    46L, 46L, 49L, 52L, 54L, 66L, 70L, 77L, 119L, 119L, 119L, 
+    119L, 119L, 119L, 35L, 35L, 40L, 42L, 45L, 47L, 48L, 49L, 
+    49L, 56L, 62L, 63L, 66L, 119L, 119L, 119L, 119L, 119L, 119L, 
+    119L, 119L, 119L, 119L, 119L, 119L, 33L, 35L, 35L, 41L, 52L, 
+    54L, 55L, 59L, 77L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 
+    119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, NA, 
+    27L, 31L, 31L, 32L, 34L, 34L, 34L, 35L, 38L, 40L, 42L, 42L, 
+    45L, 48L, 49L, 49L, 52L, 73L, 119L, 119L, 119L, 119L, 119L, 
+    119L, 34L, 35L, 38L, 40L, 42L, 42L, 47L, 48L, 52L, 54L, 56L, 
+    59L, 59L, 62L, 62L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 
+    119L, 119L, 119L, 35L, 40L, 42L, 42L, 45L, 47L, 48L, 54L, 
+    55L, 56L, 59L, 60L, 63L, 75L, 119L, 119L, 119L, 119L, 119L, 
+    119L, 119L, 119L, 119L, 119L, 119L, 28L, 40L, 42L, 42L, 45L, 
+    46L, 47L, 47L, 52L, 70L, 119L, 119L, 119L, 119L, 119L, 119L, 
+    119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 35L, 
+    40L, 42L, 42L, 45L, 47L, 48L, 49L, 54L, 54L, 56L, 56L, 56L, 
+    62L, 66L, 73L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 
+    119L, 119L, 35L, 35L, 38L, 38L, 41L, 42L, 46L, 46L, 46L, 
+    47L, 48L, 49L, 62L, 63L, 66L, 67L, 119L, 119L, 119L, 119L, 
+    119L, 119L, 119L, 119L, 119L, 35L, 35L, 38L, 40L, 41L, 42L, 
+    48L, 49L, 52L, 54L, 59L, 63L, 75L, 119L, 119L, 119L, 119L, 
+    119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 28L, 34L, 
+    40L, 41L, 42L, 45L, 46L, 48L, 49L, 55L, 56L, 56L, 56L, 56L, 
+    119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 
+    119L, 32L, 35L, 35L, 38L, 39L, 40L, 40L, 45L, 47L, 54L, 59L, 
+    59L, 66L, 68L, 68L, 119L, 119L, 119L, 119L, 119L, 119L, 119L, 
+    119L, 119L, 119L, 28L, 31L, 35L, 39L, 40L, 42L, 45L, 46L, 
+    48L, 48L, 49L, 52L, 52L, 56L, 70L, 119L, 119L, 119L, 119L, 
+    119L, 119L, 119L, 119L, 119L, 119L, 32L, 32L, 36L, 39L, 41L, 
+    48L, 50L, 53L, 56L, 56L, 61L, 64L, 120L, 120L, 120L, 120L, 
+    120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 36L, 
+    36L, 39L, 39L, 41L, 46L, 47L, 50L, 53L, 55L, 56L, 56L, 57L, 
+    71L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 
+    120L, 120L, NA, NA, 35L, 36L, 39L, 41L, 46L, 46L, 49L, 56L, 
+    57L, 57L, 57L, 71L, 85L, 120L, 120L, 120L, 120L, 120L, 120L, 
+    120L, 120L, 120L, 120L, NA, 32L, 36L, 36L, 39L, 39L, 40L, 
+    41L, 47L, 48L, 49L, 50L, 64L, 64L, 64L, 69L, 120L, 120L, 
+    120L, 120L, 120L, 120L, 120L, 120L, 120L, 46L, 47L, 47L, 
+    48L, 48L, 50L, 50L, 55L, 57L, 64L, 120L, 120L, 120L, 120L, 
+    120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 
+    120L, 33L, 35L, 36L, 39L, 39L, 47L, 50L, 55L, 57L, 60L, 61L, 
+    62L, 64L, 69L, 85L, 85L, 120L, 120L, 120L, 120L, 120L, 120L, 
+    120L, 120L, 120L, 36L, 50L, 53L, 54L, 57L, 57L, 61L, 120L, 
+    120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 
+    120L, 120L, 120L, 120L, 120L, 120L, 120L, 36L, 36L, 40L, 
+    41L, 46L, 57L, 60L, 60L, 120L, 120L, 120L, 120L, 120L, 120L, 
+    120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 
+    120L, 36L, 36L, 36L, 36L, 41L, 46L, 47L, 48L, 48L, 50L, 54L, 
+    61L, 70L, 83L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 
+    120L, 120L, 120L, 120L, 40L, 43L, 43L, 43L, 48L, 49L, 50L, 
+    50L, 50L, 53L, 53L, 57L, 74L, 75L, 76L, 120L, 120L, 120L, 
+    120L, 120L, 120L, 120L, 120L, 120L, 120L, 35L, 39L, 39L, 
+    39L, 40L, 41L, 41L, 49L, 49L, 50L, 57L, 64L, 120L, 120L, 
+    120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 
+    120L, 36L, 36L, 36L, 39L, 39L, 39L, 41L, 43L, 43L, 43L, 47L, 
+    49L, 54L, 55L, 57L, 61L, 64L, 69L, 70L, 120L, 120L, 120L, 
+    120L, 120L, 120L, 35L, 39L, 41L, 43L, 43L, 43L, 47L, 48L, 
+    49L, 50L, 53L, 53L, 54L, 54L, 55L, 57L, 64L, 120L, 120L, 
+    120L, 120L, 120L, 120L, 120L, 120L, 35L, 39L, 39L, 39L, 41L, 
+    43L, 46L, 48L, 49L, 50L, 50L, 53L, 57L, 60L, 69L, 120L, 120L, 
+    120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, NA, NA, 35L, 
+    36L, 36L, 39L, 43L, 46L, 49L, 50L, 50L, 53L, 54L, 56L, 120L, 
+    120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 
+    32L, 36L, 39L, 43L, 43L, 43L, 46L, 46L, 46L, 47L, 48L, 50L, 
+    53L, 54L, 56L, 57L, 61L, 64L, 64L, 120L, 120L, 120L, 120L, 
+    120L, 120L, 47L, 52L, 54L, 54L, 60L, 60L, 60L, 60L, 120L, 
+    120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 
+    120L, 120L, 120L, 120L, 120L, 120L, 33L, 38L, 52L, 52L, 60L, 
+    66L, 78L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 
+    120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 
+    39L, 40L, 47L, 52L, 54L, 54L, 54L, 54L, 60L, 60L, 60L, 72L, 
+    81L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 
+    120L, 120L, 120L, 38L, 38L, 44L, 47L, 47L, 52L, 54L, 54L, 
+    54L, 54L, 60L, 60L, 66L, 68L, 81L, 120L, 120L, 120L, 120L, 
+    120L, 120L, 120L, 120L, 120L, 120L, NA, 33L, 38L, 40L, 47L, 
+    47L, 52L, 54L, 54L, 60L, 60L, 120L, 120L, 120L, 120L, 120L, 
+    120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 33L, 
+    40L, 43L, 52L, 52L, 60L, 66L, 82L, 120L, 120L, 120L, 120L, 
+    120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 
+    120L, 120L, 120L, 40L, 40L, 47L, 54L, 54L, 54L, 60L, 61L, 
+    66L, 68L, 68L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 
+    120L, 120L, 120L, 120L, 120L, 120L, 120L, 43L, 43L, 45L, 
+    47L, 52L, 54L, 60L, 60L, 60L, 61L, 61L, 66L, 68L, 72L, 72L, 
+    74L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 
+    33L, 36L, 39L, 40L, 44L, 45L, 47L, 47L, 52L, 52L, 60L, 60L, 
+    68L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 
+    120L, 120L, 120L, 36L, 38L, 38L, 44L, 45L, 47L, 52L, 52L, 
+    54L, 54L, 54L, 60L, 60L, 82L, 120L, 120L, 120L, 120L, 120L, 
+    120L, 120L, 120L, 120L, 120L, 120L, NA, 30L, 36L, 38L, 39L, 
+    39L, 40L, 40L, 40L, 45L, 47L, 47L, 52L, 54L, 60L, 120L, 120L, 
+    120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 33L, 33L, 
+    33L, 39L, 40L, 43L, 45L, 47L, 54L, 54L, 66L, 120L, 120L, 
+    120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 
+    120L, 120L, NA, 33L, 36L, 38L, 38L, 40L, 45L, 45L, 47L, 47L, 
+    47L, 54L, 54L, 68L, 68L, 120L, 120L, 120L, 120L, 120L, 120L, 
+    120L, 120L, 120L, 120L, 31L, 36L, 36L, 39L, 43L, 43L, 45L, 
+    47L, 47L, 61L, 61L, 68L, 120L, 120L, 120L, 120L, 120L, 120L, 
+    120L, 120L, 120L, 120L, 120L, 120L, 120L, NA, 30L, 33L, 36L, 
+    40L, 43L, 43L, 44L, 47L, 47L, 52L, 54L, 54L, 54L, 61L, 66L, 
+    120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, NA, 
+    NA, 30L, 38L, 39L, 39L, 39L, 45L, 52L, 52L, 54L, 60L, 120L, 
+    120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 120L, 
+    120L, 120L), diasaf = c(41L, 41L, 41L, 48L, 48L, 48L, 48L, 
+    48L, 53L, 53L, 53L, 55L, 61L, 68L, 68L, 85L, NA, NA, NA, 
+    NA, NA, NA, NA, NA, NA, 36L, 41L, 42L, 46L, 46L, 48L, 48L, 
+    53L, 53L, 53L, 55L, 57L, 60L, 70L, NA, NA, NA, NA, NA, NA, 
+    NA, NA, NA, NA, NA, 36L, 36L, 40L, 41L, 42L, 42L, 46L, 46L, 
+    48L, 53L, 53L, 55L, 56L, 60L, 64L, NA, NA, NA, NA, NA, NA, 
+    NA, NA, NA, NA, 36L, 36L, 36L, 39L, 40L, 40L, 42L, 43L, 43L, 
+    46L, 46L, 48L, 48L, 53L, 53L, 55L, 56L, 57L, 63L, 74L, 78L, 
+    NA, NA, NA, NA, 36L, 39L, 39L, 43L, 43L, 48L, 48L, 48L, 48L, 
+    48L, 53L, 54L, 56L, 57L, 57L, 60L, 63L, 67L, 74L, 74L, NA, 
+    NA, NA, NA, NA, 34L, 36L, 42L, 42L, 42L, 46L, 46L, 48L, 48L, 
+    53L, 53L, 53L, 55L, 56L, 60L, 62L, NA, NA, NA, NA, NA, NA, 
+    NA, NA, NA, 36L, 40L, 40L, 41L, 41L, 42L, 42L, 46L, 46L, 
+    48L, 48L, 48L, 53L, 53L, 55L, 56L, 56L, 62L, 62L, NA, NA, 
+    NA, NA, NA, NA, 36L, 42L, 43L, 48L, 53L, 53L, 60L, 67L, 69L, 
+    74L, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 
+    NA, NA, 32L, 32L, 33L, 33L, 33L, 38L, 38L, 38L, 38L, 39L, 
+    40L, 45L, 45L, 45L, 48L, 52L, NA, NA, NA, NA, NA, NA, NA, 
+    NA, NA, 24L, 31L, 31L, 32L, 33L, 34L, 39L, 40L, 40L, 45L, 
+    45L, 48L, 48L, 53L, 55L, NA, NA, NA, NA, NA, NA, NA, NA, 
+    NA, NA, 31L, 32L, 33L, 34L, 38L, 45L, 45L, 46L, 52L, 52L, 
+    52L, 55L, 55L, 56L, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 
+    NA, 31L, 33L, 33L, 34L, 38L, 39L, 39L, 41L, 42L, 45L, 45L, 
+    46L, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 
+    27L, 32L, 33L, 33L, 35L, 42L, 45L, 45L, 52L, 52L, 55L, 68L, 
+    NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 31L, 
+    32L, 38L, 38L, 41L, 45L, 46L, 49L, 55L, 55L, 59L, NA, NA, 
+    NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 27L, 32L, 
+    35L, 38L, 39L, 39L, 39L, 42L, 42L, 45L, 46L, 52L, 53L, 53L, 
+    56L, 66L, 81L, NA, NA, NA, NA, NA, NA, NA, NA, 32L, 33L, 
+    33L, 38L, 38L, 38L, 39L, 41L, 41L, 42L, 45L, 45L, 46L, 52L, 
+    53L, 55L, 60L, 61L, NA, NA, NA, NA, NA, NA, NA, 28L, 31L, 
+    33L, 38L, 38L, 39L, 39L, 40L, 42L, 45L, 45L, 46L, 46L, 46L, 
+    53L, 61L, 62L, 62L, NA, NA, NA, NA, NA, NA, NA, 31L, 34L, 
+    34L, 34L, 38L, 38L, 38L, 40L, 40L, 46L, 49L, 52L, 52L, 53L, 
+    53L, 56L, 59L, 60L, NA, NA, NA, NA, NA, NA, NA, 28L, 31L, 
+    31L, 31L, 31L, 32L, 32L, 33L, 33L, 38L, 38L, 39L, 41L, 41L, 
+    45L, 46L, 46L, 52L, 62L, NA, NA, NA, NA, NA, NA, 24L, 27L, 
+    38L, 38L, 38L, 38L, 41L, 41L, 45L, 45L, 45L, 45L, 56L, 74L, 
+    74L, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 31L, 32L, 34L, 
+    34L, 38L, 38L, 39L, 39L, 39L, 42L, 45L, 45L, 45L, 49L, 52L, 
+    52L, 53L, 53L, 59L, 75L, NA, NA, NA, NA, NA, 27L, 32L, 32L, 
+    32L, 34L, 35L, 38L, 38L, 38L, 38L, 39L, 41L, 45L, 46L, 52L, 
+    59L, 80L, NA, NA, NA, NA, NA, NA, NA, NA, 27L, 28L, 32L, 
+    32L, 32L, 32L, 35L, 38L, 39L, 41L, 41L, 45L, 45L, 45L, 52L, 
+    52L, 55L, 55L, 55L, 61L, NA, NA, NA, NA, NA, 32L, 32L, 32L, 
+    33L, 34L, 38L, 39L, 39L, 41L, 42L, 42L, 48L, 52L, 60L, 66L, 
+    NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 38L, 38L, 38L, 40L, 
+    42L, 46L, 49L, 59L, 59L, 66L, 73L, 76L, NA, NA, NA, NA, NA, 
+    NA, NA, NA, NA, NA, NA, NA, NA, 31L, 34L, 35L, 38L, 41L, 
+    45L, 45L, 55L, 56L, 59L, 60L, 73L, 75L, 80L, 87L, NA, NA, 
+    NA, NA, NA, NA, NA, NA, NA, NA, 28L, 38L, 38L, 39L, 41L, 
+    45L, 46L, 47L, 47L, 48L, 48L, 49L, 55L, 56L, 59L, 66L, 73L, 
+    NA, NA, NA, NA, NA, NA, NA, NA, 38L, 39L, 39L, 40L, 40L, 
+    41L, 42L, 45L, 45L, 46L, 46L, 47L, 47L, 52L, 53L, 55L, 67L, 
+    73L, 80L, NA, NA, NA, NA, NA, NA, 38L, 38L, 41L, 45L, 46L, 
+    48L, 49L, 52L, 52L, 59L, 63L, 66L, 67L, NA, NA, NA, NA, NA, 
+    NA, NA, NA, NA, NA, NA, NA, 34L, 38L, 38L, 42L, 53L, 55L, 
+    56L, 60L, 80L, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 
+    NA, NA, NA, NA, NA, 27L, 28L, 32L, 32L, 33L, 35L, 35L, 35L, 
+    38L, 39L, 41L, 45L, 45L, 46L, 49L, 52L, 52L, 53L, 74L, NA, 
+    NA, NA, NA, NA, NA, 35L, 38L, 39L, 41L, 45L, 45L, 48L, 49L, 
+    53L, 55L, 59L, 60L, 60L, 63L, 63L, NA, NA, NA, NA, NA, NA, 
+    NA, NA, NA, NA, 38L, 41L, 45L, 45L, 46L, 48L, 49L, 55L, 56L, 
+    59L, 60L, 61L, 66L, 76L, NA, NA, NA, NA, NA, NA, NA, NA, 
+    NA, NA, NA, 31L, 41L, 45L, 45L, 46L, 47L, 48L, 48L, 53L, 
+    73L, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 
+    NA, NA, 38L, 41L, 45L, 45L, 46L, 48L, 49L, 52L, 55L, 55L, 
+    59L, 59L, 59L, 63L, 67L, 74L, NA, NA, NA, NA, NA, NA, NA, 
+    NA, NA, 38L, 38L, 39L, 39L, 42L, 45L, 47L, 47L, 47L, 48L, 
+    49L, 52L, 63L, 66L, 67L, 68L, NA, NA, NA, NA, NA, NA, NA, 
+    NA, NA, 38L, 38L, 39L, 41L, 42L, 45L, 49L, 52L, 53L, 55L, 
+    60L, 66L, 76L, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 
+    NA, 31L, 35L, 41L, 42L, 45L, 46L, 47L, 49L, 52L, 56L, 59L, 
+    59L, 59L, 59L, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 
+    33L, 38L, 38L, 39L, 40L, 41L, 41L, 46L, 48L, 55L, 60L, 60L, 
+    67L, 69L, 69L, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 31L, 
+    32L, 38L, 40L, 41L, 45L, 46L, 47L, 49L, 49L, 52L, 53L, 53L, 
+    59L, 73L, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 33L, 33L, 
+    39L, 40L, 42L, 49L, 53L, 54L, 57L, 57L, 62L, 67L, NA, NA, 
+    NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 39L, 39L, 40L, 
+    40L, 42L, 47L, 48L, 53L, 54L, 56L, 57L, 57L, 60L, 74L, NA, 
+    NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 32L, 32L, 36L, 39L, 
+    40L, 42L, 47L, 47L, 50L, 57L, 60L, 60L, 60L, 74L, 88L, NA, 
+    NA, NA, NA, NA, NA, NA, NA, NA, NA, 32L, 33L, 39L, 39L, 40L, 
+    40L, 41L, 42L, 48L, 49L, 50L, 53L, 67L, 67L, 67L, 70L, NA, 
+    NA, NA, NA, NA, NA, NA, NA, NA, 47L, 48L, 48L, 49L, 49L, 
+    53L, 53L, 56L, 60L, 67L, NA, NA, NA, NA, NA, NA, NA, NA, 
+    NA, NA, NA, NA, NA, NA, NA, 34L, 36L, 39L, 40L, 40L, 48L, 
+    53L, 56L, 60L, 61L, 62L, 63L, 67L, 70L, 88L, 88L, NA, NA, 
+    NA, NA, NA, NA, NA, NA, NA, 39L, 53L, 54L, 55L, 60L, 60L, 
+    62L, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 
+    NA, NA, NA, NA, NA, 39L, 39L, 41L, 42L, 47L, 60L, 61L, 61L, 
+    NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 
+    NA, NA, 39L, 39L, 39L, 39L, 42L, 47L, 48L, 49L, 49L, 53L, 
+    55L, 62L, 71L, 84L, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 
+    NA, 41L, 46L, 46L, 46L, 49L, 50L, 53L, 53L, 53L, 54L, 54L, 
+    60L, 75L, 76L, 77L, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 
+    36L, 40L, 40L, 40L, 41L, 42L, 42L, 50L, 50L, 53L, 60L, 67L, 
+    NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 39L, 
+    39L, 39L, 40L, 40L, 40L, 42L, 46L, 46L, 46L, 48L, 50L, 55L, 
+    56L, 60L, 62L, 67L, 70L, 71L, NA, NA, NA, NA, NA, NA, 36L, 
+    40L, 42L, 46L, 46L, 46L, 48L, 49L, 50L, 53L, 54L, 54L, 55L, 
+    55L, 56L, 60L, 67L, NA, NA, NA, NA, NA, NA, NA, NA, 36L, 
+    40L, 40L, 40L, 42L, 46L, 47L, 49L, 50L, 53L, 53L, 54L, 60L, 
+    61L, 70L, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 32L, 32L, 
+    36L, 39L, 39L, 40L, 46L, 47L, 50L, 53L, 53L, 54L, 55L, 57L, 
+    NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 33L, 39L, 40L, 
+    46L, 46L, 46L, 47L, 47L, 47L, 48L, 49L, 53L, 54L, 55L, 57L, 
+    60L, 62L, 67L, 67L, NA, NA, NA, NA, NA, NA, 50L, 53L, 57L, 
+    57L, 61L, 61L, 61L, 61L, NA, NA, NA, NA, NA, NA, NA, NA, 
+    NA, NA, NA, NA, NA, NA, NA, NA, NA, 36L, 39L, 53L, 53L, 61L, 
+    67L, 79L, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 
+    NA, NA, NA, NA, NA, NA, 40L, 43L, 50L, 53L, 57L, 57L, 57L, 
+    57L, 61L, 61L, 61L, 73L, 82L, NA, NA, NA, NA, NA, NA, NA, 
+    NA, NA, NA, NA, NA, 39L, 39L, 45L, 50L, 50L, 53L, 57L, 57L, 
+    57L, 57L, 61L, 61L, 67L, 71L, 82L, NA, NA, NA, NA, NA, NA, 
+    NA, NA, NA, NA, 29L, 36L, 39L, 43L, 50L, 50L, 53L, 57L, 57L, 
+    61L, 61L, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 
+    NA, NA, 36L, 43L, 44L, 53L, 53L, 61L, 67L, 85L, NA, NA, NA, 
+    NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 43L, 
+    43L, 50L, 57L, 57L, 57L, 61L, 64L, 67L, 71L, 71L, NA, NA, 
+    NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 44L, 44L, 
+    46L, 50L, 53L, 57L, 61L, 61L, 61L, 64L, 64L, 67L, 71L, 73L, 
+    73L, 75L, NA, NA, NA, NA, NA, NA, NA, NA, NA, 36L, 37L, 40L, 
+    43L, 45L, 46L, 50L, 50L, 53L, 53L, 61L, 61L, 71L, NA, NA, 
+    NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, 37L, 39L, 39L, 45L, 
+    46L, 50L, 53L, 53L, 57L, 57L, 57L, 61L, 61L, 85L, NA, NA, 
+    NA, NA, NA, NA, NA, NA, NA, NA, NA, 29L, 31L, 37L, 39L, 40L, 
+    40L, 43L, 43L, 43L, 46L, 50L, 50L, 53L, 57L, 61L, NA, NA, 
+    NA, NA, NA, NA, NA, NA, NA, NA, 36L, 36L, 36L, 40L, 43L, 
+    44L, 46L, 50L, 57L, 57L, 67L, NA, NA, NA, NA, NA, NA, NA, 
+    NA, NA, NA, NA, NA, NA, NA, 29L, 36L, 37L, 39L, 39L, 43L, 
+    46L, 46L, 50L, 50L, 50L, 57L, 57L, 71L, 71L, NA, NA, NA, 
+    NA, NA, NA, NA, NA, NA, NA, 32L, 37L, 37L, 40L, 44L, 44L, 
+    46L, 50L, 50L, 64L, 64L, 71L, NA, NA, NA, NA, NA, NA, NA, 
+    NA, NA, NA, NA, NA, NA, 29L, 31L, 36L, 37L, 43L, 44L, 44L, 
+    45L, 50L, 50L, 53L, 57L, 57L, 57L, 64L, 67L, NA, NA, NA, 
+    NA, NA, NA, NA, NA, NA, 29L, 29L, 31L, 39L, 40L, 40L, 40L, 
+    46L, 53L, 53L, 57L, 61L, NA, NA, NA, NA, NA, NA, NA, NA, 
+    NA, NA, NA, NA, NA)), row.names = c(NA, -1800L), class = "data.frame")
