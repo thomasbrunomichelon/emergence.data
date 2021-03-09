@@ -200,26 +200,26 @@ summary(glht(TTE.T30[["EDmultcomp"]],
              linfct = contrMat(1:9, "Tukey")))
 
 # TTE - T30 - additional treatment and interaction
-ED(ivg_time_LN.3.additionaltreatment, 0.3, interval = "delta", vcov = vcovCL, type = "absolute")
-TTE.add.T30 <- ED(ivg_time_LN.3.additionaltreatment, 0.3, interval = "delta", vcov = vcovCL, multcomp = T, display = F, type="absolute")
+ED(ivg_time_LN.3.additionaltreatment, 0.4, interval = "delta", vcov = vcovCL, type = "absolute")
+TTE.add.T30 <- ED(ivg_time_LN.3.additionaltreatment, 0.4, interval = "delta", vcov = vcovCL, multcomp = T, display = F, type="absolute")
 summary(glht(TTE.add.T30[["EDmultcomp"]],
              linfct = contrMat(1:2, "Tukey")))
 
 # NLR - T30 - factor1(time):factor2(packing)
-ED(ivg_dose_LN.3, 0.3, interval = "delta", vcov = vcovCL, type="absolute")
+ED(ivg_dose_LN.3, 0.4, interval = "delta", vcov = vcovCL, type="absolute")
 # Mean comparison
-NLR.T30 <- ED(ivg_dose_LN.3, 0.30, interval = "delta", vcov = vcovCL, multcomp = T, display = F, type="absolute")
+NLR.T30 <- ED(ivg_dose_LN.3, 0.4, interval = "delta", vcov = vcovCL, multcomp = T, display = F, type="absolute")
 summary(glht(NLR.T30[["EDmultcomp"]],
              linfct = contrMat(1:9, "Tukey")))
 
 # NLR - T30 - additional treatment and interaction
-ED(ivg_dose_LN.3.additionaltreatment, 0.3, interval = "delta", vcov = vcovCL, type = "absolute")
-NLR.add.T30 <- ED(ivg_dose_LN.3.additionaltreatment, 0.3, interval = "delta", vcov = vcovCL, multcomp = T, display = F, type="absolute")
+ED(ivg_dose_LN.3.additionaltreatment, 0.4, interval = "delta", vcov = vcovCL, type = "absolute")
+NLR.add.T30 <- ED(ivg_dose_LN.3.additionaltreatment, 0.4, interval = "delta", vcov = vcovCL, multcomp = T, display = F, type="absolute")
 summary(glht(NLR.add.T30[["EDmultcomp"]],
              linfct = contrMat(1:2, "Tukey")))
 
 
-### FIGURE 3 - NLR and TTT plot
+### FIGURE 3 - NLR and TTE plot
 
 # CONFIDENCE BANDS FOR EACH CURVE
 
